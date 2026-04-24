@@ -1,0 +1,80 @@
+{
+  "ts": 1777022028,
+  "generated_at": "2026-04-24 17:13:48",
+  "count": 12,
+  "data": [
+    {
+      "zh": "醫療",
+      "icon": "🏥",
+      "change_pct": 0.81,
+      "stock_count": 7
+    },
+    {
+      "zh": "消費",
+      "icon": "🛍️",
+      "change_pct": 0.49,
+      "stock_count": 5
+    },
+    {
+      "zh": "航運",
+      "icon": "✈️",
+      "change_pct": 0.49,
+      "stock_count": 4
+    },
+    {
+      "zh": "公用",
+      "icon": "⚡",
+      "change_pct": 0.38,
+      "stock_count": 4
+    },
+    {
+      "zh": "能源",
+      "icon": "🛢️",
+      "change_pct": 0.22,
+      "stock_count": 5
+    },
+    {
+      "zh": "金融",
+      "icon": "🏦",
+      "change_pct": -0.04,
+      "stock_count": 8
+    },
+    {
+      "zh": "工業",
+      "icon": "🏗️",
+      "change_pct": -0.21,
+      "stock_count": 5
+    },
+    {
+      "zh": "科技",
+      "icon": "💻",
+      "change_pct": -0.32,
+      "stock_count": 8
+    },
+    {
+      "zh": "地產",
+      "icon": "🏢",
+      "change_pct": -0.54,
+      "stock_count": 7
+    },
+    {
+      "zh": "食品飲料",
+      "icon": "🍜",
+      "change_pct": -0.61,
+      "stock_count": 5
+    },
+    {
+      "zh": "電訊",
+      "icon": "📡",
+      "change_pct": -1.06,
+      "stock_count": 3
+    },
+    {
+      "zh": "汽車",
+      "icon": "🚗",
+      "change_pct": -1.14,
+      "stock_count": 6
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,259 @@
+{
+  "ts": 1777022025,
+  "generated_at": "2026-04-24 17:13:45",
+  "data": [
+    {
+      "code": "HK.00700",
+      "name": "騰訊",
+      "name_en": "Tencent",
+      "dist": {
+        "in_super": 122.4,
+        "in_big": 845.3,
+        "in_mid": 1179.51,
+        "in_small": 1983.75,
+        "out_super": 263.66,
+        "out_big": 437.88,
+        "out_mid": 725.47,
+        "out_small": 1807.03,
+        "total_in": 4130.96,
+        "total_out": 3234.04,
+        "net_flow": 896.92,
+        "update_time": "2026-04-24 15:59:58"
+      },
+      "net_flow_m": 896.92,
+      "rank": 1
+    },
+    {
+      "code": "HK.01211",
+      "name": "比亞迪",
+      "name_en": "BYD",
+      "dist": {
+        "in_super": 290.67,
+        "in_big": 345.36,
+        "in_mid": 284.76,
+        "in_small": 666.31,
+        "out_super": 172.23,
+        "out_big": 222.92,
+        "out_mid": 171.86,
+        "out_small": 439.8,
+        "total_in": 1587.1,
+        "total_out": 1006.81,
+        "net_flow": 580.29,
+        "update_time": "2026-04-24 15:59:57"
+      },
+      "net_flow_m": 580.29,
+      "rank": 2
+    },
+    {
+      "code": "HK.09988",
+      "name": "阿里巴巴",
+      "name_en": "Alibaba",
+      "dist": {
+        "in_super": 272.64,
+        "in_big": 928.3,
+        "in_mid": 935.26,
+        "in_small": 1712.83,
+        "out_super": 67.46,
+        "out_big": 564.81,
+        "out_mid": 865.33,
+        "out_small": 1829.01,
+        "total_in": 3849.02,
+        "total_out": 3326.61,
+        "net_flow": 522.41,
+        "update_time": "2026-04-24 15:59:57"
+      },
+      "net_flow_m": 522.41,
+      "rank": 3
+    },
+    {
+      "code": "HK.01810",
+      "name": "小米",
+      "name_en": "Xiaomi",
+      "dist": {
+        "in_super": 60.59,
+        "in_big": 297.91,
+        "in_mid": 329.74,
+        "in_small": 510.56,
+        "out_super": 15.4,
+        "out_big": 175.76,
+        "out_mid": 247.08,
+        "out_small": 386.99,
+        "total_in": 1198.8,
+        "total_out": 825.23,
+        "net_flow": 373.57,
+        "update_time": "2026-04-24 15:59:59"
+      },
+      "net_flow_m": 373.57,
+      "rank": 4
+    },
+    {
+      "code": "HK.00941",
+      "name": "中移動",
+      "name_en": "China Mobile",
+      "dist": {
+        "in_super": 238.58,
+        "in_big": 228.3,
+        "in_mid": 155.7,
+        "in_small": 357.87,
+        "out_super": 141.37,
+        "out_big": 284.31,
+        "out_mid": 120.55,
+        "out_small": 201.2,
+        "total_in": 980.46,
+        "total_out": 747.43,
+        "net_flow": 233.03,
+        "update_time": "2026-04-24 15:59:45"
+      },
+      "net_flow_m": 233.03,
+      "rank": 5
+    },
+    {
+      "code": "HK.09888",
+      "name": "百度",
+      "name_en": "Baidu",
+      "dist": {
+        "in_super": 60.42,
+        "in_big": 129.29,
+        "in_mid": 134.85,
+        "in_small": 275.67,
+        "out_super": 0.0,
+        "out_big": 76.83,
+        "out_mid": 114.93,
+        "out_small": 187.66,
+        "total_in": 600.24,
+        "total_out": 379.42,
+        "net_flow": 220.82,
+        "update_time": "2026-04-24 15:59:57"
+      },
+      "net_flow_m": 220.82,
+      "rank": 6
+    },
+    {
+      "code": "HK.03690",
+      "name": "美團",
+      "name_en": "Meituan",
+      "dist": {
+        "in_super": 120.76,
+        "in_big": 327.02,
+        "in_mid": 323.94,
+        "in_small": 586.65,
+        "out_super": 81.46,
+        "out_big": 286.86,
+        "out_mid": 303.77,
+        "out_small": 527.18,
+        "total_in": 1358.37,
+        "total_out": 1199.26,
+        "net_flow": 159.11,
+        "update_time": "2026-04-24 15:59:59"
+      },
+      "net_flow_m": 159.11,
+      "rank": 7
+    },
+    {
+      "code": "HK.00005",
+      "name": "匯豐",
+      "name_en": "HSBC",
+      "dist": {
+        "in_super": 32.22,
+        "in_big": 138.45,
+        "in_mid": 136.4,
+        "in_small": 203.59,
+        "out_super": 16.8,
+        "out_big": 74.19,
+        "out_mid": 107.48,
+        "out_small": 219.9,
+        "total_in": 510.66,
+        "total_out": 418.37,
+        "net_flow": 92.3,
+        "update_time": "2026-04-24 15:59:53"
+      },
+      "net_flow_m": 92.3,
+      "rank": 8
+    },
+    {
+      "code": "HK.02318",
+      "name": "平安",
+      "name_en": "Ping An",
+      "dist": {
+        "in_super": 18.51,
+        "in_big": 160.1,
+        "in_mid": 147.92,
+        "in_small": 234.6,
+        "out_super": 47.87,
+        "out_big": 56.62,
+        "out_mid": 111.98,
+        "out_small": 270.84,
+        "total_in": 561.14,
+        "total_out": 487.31,
+        "net_flow": 73.83,
+        "update_time": "2026-04-24 15:59:59"
+      },
+      "net_flow_m": 73.83,
+      "rank": 9
+    },
+    {
+      "code": "HK.09618",
+      "name": "京東",
+      "name_en": "JD.com",
+      "dist": {
+        "in_super": 11.77,
+        "in_big": 48.46,
+        "in_mid": 86.25,
+        "in_small": 156.51,
+        "out_super": 0.0,
+        "out_big": 31.61,
+        "out_mid": 75.45,
+        "out_small": 135.99,
+        "total_in": 302.99,
+        "total_out": 243.05,
+        "net_flow": 59.95,
+        "update_time": "2026-04-24 15:59:59"
+      },
+      "net_flow_m": 59.95,
+      "rank": 10
+    },
+    {
+      "code": "HK.03032",
+      "name": "恒生科技ETF",
+      "name_en": "HSTECH ETF",
+      "dist": {
+        "in_super": 5.3,
+        "in_big": 5.64,
+        "in_mid": 10.28,
+        "in_small": 40.53,
+        "out_super": 0.0,
+        "out_big": 13.32,
+        "out_mid": 18.09,
+        "out_small": 44.83,
+        "total_in": 61.75,
+        "total_out": 76.24,
+        "net_flow": -14.49,
+        "update_time": "2026-04-24 15:59:33"
+      },
+      "net_flow_m": -14.49,
+      "rank": 11
+    },
+    {
+      "code": "HK.02800",
+      "name": "盈富基金",
+      "name_en": "Tracker Fund",
+      "dist": {
+        "in_super": 1123.69,
+        "in_big": 1649.93,
+        "in_mid": 892.35,
+        "in_small": 1846.9,
+        "out_super": 1001.84,
+        "out_big": 1083.82,
+        "out_mid": 1649.68,
+        "out_small": 2146.65,
+        "total_in": 5512.88,
+        "total_out": 5881.99,
+        "net_flow": -369.11,
+        "update_time": "2026-04-24 15:59:59"
+      },
+      "net_flow_m": -369.11,
+      "rank": 12
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,56 @@
+{
+  "ts": 1777064296,
+  "generated_at": "2026-04-25T04:58:16.685828+08:00",
+  "gold_text": "黃金今日微升零點四厘，缺乏重大經濟數據刺激，市場靜待美聯儲政策信號，美元走勢溫和，避險需求平穩，短期睇淡不明顯。💰",
+  "oil_text": "布蘭特跌幅逾四厘，WTI亦見回軟，市場憂慮全球經濟放緩拖累需求，加上美元走強打壓油價，短期承壓向下。⬇️",
+  "crypto_text": "比特幣跌穿七萬八美元，缺乏新聞面支撑，大戶套現減持，短期承壓；以太坊跌幅較淺，惟整體市況偏弱，宜持貨觀望。📉",
+  "gold": {
+    "zh_hk": "黃金今日微升零點四厘，缺乏重大經濟數據刺激，市場靜待美聯儲政策信號，美元走勢溫和，避險需求平穩，短期睇淡不明顯。💰",
+    "price": {
+      "symbol": "GC=F",
+      "price": 4724.1,
+      "prev_close": 4705.1,
+      "change_pct": 0.4,
+      "currency": "USD",
+      "_src": "yahoo"
+    }
+  },
+  "oil": {
+    "zh_hk": "布蘭特跌幅逾四厘，WTI亦見回軟，市場憂慮全球經濟放緩拖累需求，加上美元走強打壓油價，短期承壓向下。⬇️",
+    "price_wti": {
+      "symbol": "CL=F",
+      "price": 95.02,
+      "prev_close": 95.85,
+      "change_pct": -0.87,
+      "currency": "USD",
+      "_src": "yahoo"
+    },
+    "price_brent": {
+      "symbol": "BZ=F",
+      "price": 100.01,
+      "prev_close": 105.07,
+      "change_pct": -4.82,
+      "currency": "USD",
+      "_src": "yahoo"
+    }
+  },
+  "crypto": {
+    "zh_hk": "比特幣跌穿七萬八美元，缺乏新聞面支撑，大戶套現減持，短期承壓；以太坊跌幅較淺，惟整體市況偏弱，宜持貨觀望。📉",
+    "price_btc": {
+      "symbol": "BTC-USD",
+      "price": 77760.13,
+      "prev_close": 78268.95,
+      "change_pct": -0.65,
+      "currency": "USD",
+      "_src": "yahoo"
+    },
+    "price_eth": {
+      "symbol": "ETH-USD",
+      "price": 2326.78,
+      "prev_close": 2331.51,
+      "change_pct": -0.2,
+      "currency": "USD",
+      "_src": "yahoo"
+    }
+  }
+}
