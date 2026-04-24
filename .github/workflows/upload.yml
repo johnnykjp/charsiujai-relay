@@ -20,8 +20,13 @@ jobs:
           for file in data/*.json; do
             [ -f "$file" ] || continue
             filename=$(basename "$file")
-            b64=$(base64 -w0 "$file")
+            # Write base64 to temp file, use --data-urlencode to handle +/= correctly
+            b64file=$(mktemp)
+            base64 -w0 "$file" > "$b64file"
             resp=$(curl -s --max-time 15 -X POST "$UPLOAD_URL" \
-              -d "token=${UPLOAD_TOKEN}&file=${filename}&data=${b64}")
+              --data-urlencode "token=${UPLOAD_TOKEN}" \
+              --data-urlencode "file=${filename}" \
+              --data-urlencode "data@${b64file}")
             echo "[$filename] $resp"
+            rm -f "$b64file"
           done
