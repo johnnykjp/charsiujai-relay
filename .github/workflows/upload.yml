@@ -1,0 +1,27 @@
+name: Upload to charsiujai.com
+
+on:
+  push:
+    paths:
+      - 'data/**'
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload changed JSON files
+        env:
+          UPLOAD_TOKEN: ${{ secrets.CBJ_UPLOAD_TOKEN }}
+          UPLOAD_URL: https://charsiujai.com/_upload.php
+        run: |
+          set +e
+          for file in data/*.json; do
+            [ -f "$file" ] || continue
+            filename=$(basename "$file")
+            b64=$(base64 -w0 "$file")
+            resp=$(curl -s --max-time 15 -X POST "$UPLOAD_URL" \
+              -d "token=${UPLOAD_TOKEN}&file=${filename}&data=${b64}")
+            echo "[$filename] $resp"
+          done
