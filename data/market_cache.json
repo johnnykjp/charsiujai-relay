@@ -1,5 +1,5 @@
 {
-  "ts": 1777065065,
+  "ts": 1777065337,
   "data": [
     {
       "symbol": "^GSPC",
@@ -211,9 +211,9 @@
       "name_zh_cn": "比特币",
       "name_en": "Bitcoin",
       "emoji": "₿",
-      "price": 77728.78,
+      "price": 77611.36,
       "prev_close": 78278.66,
-      "change_pct": -0.7025,
+      "change_pct": -0.8525,
       "currency": "USD",
       "_src": "yahoo"
     },
@@ -223,9 +223,9 @@
       "name_zh_cn": "以太坊",
       "name_en": "Ethereum",
       "emoji": "💎",
-      "price": 2326.24,
+      "price": 2316.64,
       "prev_close": 2331.538,
-      "change_pct": -0.2272,
+      "change_pct": -0.639,
       "currency": "USD",
       "_src": "yahoo"
     },
@@ -235,9 +235,9 @@
       "name_zh_cn": "Solana",
       "name_en": "Solana",
       "emoji": "◎",
-      "price": 86.95,
+      "price": 86.63,
       "prev_close": 86.1422,
-      "change_pct": 0.9378,
+      "change_pct": 0.5663,
       "currency": "USD",
       "_src": "yahoo"
     },
@@ -247,9 +247,9 @@
       "name_zh_cn": "XRP",
       "name_en": "XRP",
       "emoji": "✕",
-      "price": 1.4419,
+      "price": 1.4386,
       "prev_close": 1.4391,
-      "change_pct": 0.1947,
+      "change_pct": -0.0346,
       "currency": "USD",
       "_src": "yahoo"
     },
@@ -259,9 +259,9 @@
       "name_zh_cn": "BNB",
       "name_en": "BNB",
       "emoji": "🔶",
-      "price": 638.25,
+      "price": 637.3,
       "prev_close": 638.7211,
-      "change_pct": -0.0738,
+      "change_pct": -0.2225,
       "currency": "USD",
       "_src": "yahoo"
     },
