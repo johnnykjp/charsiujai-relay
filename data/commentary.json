@@ -1,9 +1,20 @@
 {
-  "zh_hk": "F&G 66貪婪但子指標嚴重分歧，認沽比同股價強度仍恐慌，避險需求爆上100即係資金買股又買金自保。Golden Dome $32億軍工合約係正面催化，但下週先見真章 📊 偏觀望",
-  "zh_cn": "F&G 66贪婪但内部分歧明显，认购认沽比和股价强度仍处恐慌区，避险需求升至100暗示资金在对冲。Golden Dome 32亿军工合约是正面催化剂，下周走势待美伊谈判结果明朗 📊 偏观望",
-  "en": "F&G at 66 (Greed) but internal divergence flashes caution — put/call ratio & price strength in Fear zone while safe haven demand hits extreme 100. Money buying stocks AND gold signals hedging. Golden Dome $3.2B defense contracts a positive catalyst; next week hinges on US-Iran talks 📊 Neutral-Bearish bias",
-  "fg_score": 66.0,
-  "fg_rating": "貪婪",
-  "generated_at": "2026-04-25T04:56:42.784214+08:00",
-  "ts": 1777064202
+  "timestamp": 1777466757,
+  "date": "2026-04-29",
+  "time": "20:46 HKT",
+  "commentary": "伊朗海峽膠著油價狂飆，UAE退OPEC擊波油市格局；美股昨跌港股升，地緣風險與AI投資拉鋸。聯儲今週開會，Powell任期倒數，美股開市預料中性偏弱，先睇技術支撑。",
+  "market_snapshot": {
+    "sp500": -0.49,
+    "nasdaq": -0.9,
+    "hsi": 1.6825,
+    "gold": -0.8593,
+    "wti": 3.8727
+  },
+  "categories": [
+    "地緣政治",
+    "能源",
+    "美股",
+    "AI投資",
+    "Fed會議"
+  ]
 }
