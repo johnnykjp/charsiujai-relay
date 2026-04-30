@@ -1,130 +1,293 @@
 [
   {
-    "ts": 1776171207,
-    "date": "2026-04-14 20:53",
-    "mode": "us_premarket",
-    "zh_hk": "受伊朗地緣衝突引發嘅能源通脹擔憂影響，市場本應避險，但今日WTI油價反而跌逾3%至96美元，VIX恐慌指數亦回落近5%；加上標指同納指盤前齊升逾1%，反映資金無懼地緣局勢，預期美股開市會延續強勢，風險胃納大開。"
-  },
-  {
-    "timestamp": 1775825358,
-    "date": "2026-04-10",
-    "time_hkt": "20:48",
-    "commentary": "恐懼指數創底部信號，停火紓緩地緣風險，股市漲升加密升溫，惟油價弱勢反映需求擔憂，美股開市料高開走好。💹",
-    "market_snapshot": {
-      "sp500_price": 6824.66,
-      "sp500_change_pct": 0.617,
-      "vix_price": 19.13,
-      "vix_change_pct": -1.8471,
-      "btc_price": 72323.0,
-      "btc_change_pct": 0.7515,
-      "wti_price": 97.46,
-      "wti_change_pct": -0.4189
+    "timestamp": 1777553174,
+    "market_date": "2026-04-30",
+    "time": "20:45",
+    "content": "伊朗戰爭推高通脹至三年高位，油價由$126回落至$105；央行按兵不動，黃金升1.8%避險，美股開市預計弱勢震盪。",
+    "analysis": {
+      "catalyst": "伊朗地緣衝突導致通脹升溫，各大央行暫停加息步調",
+      "market_trend": "油價急殺回調，避險資產黃金續升，VIX恐慌指數回落，風險情緒略微改善",
+      "us_premarket": "標普納指基本持平，道指微跌0.57%，預計開市維持震盪格局"
     },
-    "breaking_news": "華爾街恐懼指數閃現異常信號 標普500可能數月內漲至7,400",
-    "source": "charsiujai_premarket_update"
-  },
-  {
-    "timestamp": 1775738626,
-    "date": "2026-04-09",
-    "time_hkt": "20:45",
-    "commentary": "停火協議虛虛實實，以色列轟炸黎巴嫩煞食風景，油價衝破 $99 蚊見實力，美股三大指數齊升逾 2.5% 反映市場搏細一搏，但 VIX 跌幅勁過三分之一，恐慌指數大幅回落，美股今日有機會應聲開揚。",
-    "market_snapshot": {
-      "sp500_price": 6782.81,
-      "sp500_change": 2.5081,
-      "nasdaq_price": 22634.994,
-      "nasdaq_change": 2.8029,
-      "dji_price": 47909.92,
-      "dji_change": 2.8453,
-      "oil_price": 99.2,
-      "oil_change": 5.0736,
-      "vix": 21.29,
-      "key_stories": [
-        "美伊停火協議持續生變，以色列轟炸黎巴嫩",
-        "霍爾木茲海峽通行受阻，油價上升壓力持續",
-        "通脹數據符合預期，市場靜候聯儲政策信號"
-      ]
+    "data_snapshot": {
+      "sp500": {
+        "price": 7135.95,
+        "change": -0.04
+      },
+      "gold": {
+        "price": 4644.2,
+        "change": 1.81
+      },
+      "oil": {
+        "price": 105.2,
+        "change": -1.57
+      },
+      "vix": {
+        "price": 17.86,
+        "change": -5.05
+      }
     }
   },
   {
-    "timestamp": "2026-04-03T12:47:14.994465Z",
-    "commentary": "地緣風險推高油價同黃金，納指科技股撐穩市況，美股開市睇好 💹",
-    "market_snapshot": {
-      "sp500_price": 6582.69,
-      "sp500_change": 0.1121,
-      "nasdaq_price": 21879.182,
-      "nasdaq_change": 0.1751,
-      "dji_price": 46504.67,
-      "dji_change": -0.1311,
-      "gold_price": 4910.1,
-      "gold_change": 2.2426,
-      "oil_price": 71.52,
-      "oil_change": 0.2664,
-      "vix": 23.87
-    }
+    "zh_hk": "盤前期指方向待確認。⚡F&G分歧警訊：標普動力極貪婪(93)，認購認沽卻跌入恐慌(31)，市場悄悄對冲。黃金漲至4647美元，油回落近2%，歐英央行均按兵不動。偏淡 ⚠️",
+    "zh_cn": "盘前期指方向待确认。⚡F&G分歧预警：标普动力极度贪婪(93)，认购认沽比却跌入恐慌(31)，市场悄悄对冲。黄金涨至4647美元，油价回落近2%，欧英央行均按兵不动。偏淡 ⚠️",
+    "en": "Pre-market, futures direction TBC. ⚡F&G divergence alert: S&P momentum at extreme greed (93) but put/call ratio signals fear (31) — stealth hedging underway. Gold surges to $4,647, oil pulls back ~2%, ECB & BoE both held rates. Bearish lean. ⚠️",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T20:37:11.296852+08:00",
+    "ts": 1777552631
   },
   {
-    "timestamp": 1776257187,
-    "generated_at": "2026-04-15T20:46:27.050970",
-    "commentary": "🌍 美市前瞻 (2026-04-15 20:45 HKT)\n\n💬 市場評述：\n美伊停火談判大有進展，Trump暗示本週可能達成協議，新聞面支撐情緒。加上Morgan Stanley等大行季績超預期，企業盈利穩健。今日亞洲股市普遍上漲，恒指+0.29%，標普500期貨升勢不減；VIX跌至18.28，恐慌指數四周低點，反映市場情緒好轉。\n\n🔴 頭條關注：\n• 黎巴嫩與以色列衝突升級，但美伊停火談判持續推進（耶路撒冷郵報最新）\n• Trump威脅若Powell唔主動辭職就炒佢魷魚，聯儲局政策面臨變數\n• 今日係報稅截止日，預計有大筆資金重新調配，短線波動加大\n\n📊 商品評況：\n黃金今日基本企穩，缺乏重大利好刺激。油價溫和上升0.42%至$91.66，中東供應擔憂支撐；比特幣企穩$74,354，缺乏重磅催化劑，投資者靜候聯儲局信號。\n\n📈 開市預期：\n美股宜維持強勢。地緣政治緩和希望 + 企業業績向好 + 技術面超買訊號警示，預計標普500可挑戰新高，但應注意報稅日資金重配帶來嘅短線波動。科技股（納指+1.96%）仍係領漲引擎。\n\n⚠️ 風險提示：\n伊朗局勢變數大；Trump同Powell權力鬥爭持續；VIX雖跌但3個月遠期波動率仍偏高(20.82)，暗示市場對中期不確定性存疑慮。\n\n#charsiujai #美股 #前市 #地緣政治 #企業季績",
-    "market_snapshot": {
-      "sp500": 1.1783,
-      "nasdaq": 1.9641,
-      "vix": 18.28,
-      "btc": 0.2423
-    },
-    "version": "20:45"
+    "zh_hk": "F&G報63貪婪，惟認沽比急墮恐慌31⚡情緒撕裂。英央行維息但警告通脹升溫，油跌2.5%壓通脹預期。黃金+1.8%美元偏弱，港股今日跌1.3%。美股開市方向待確認。📊 觀望",
+    "zh_cn": "F&G报63贪婪，但认沽比急跌至恐慌31⚡情绪分裂。英央行维持利率同时警告通胀上行，油价跌2.5%缓解压力。黄金+1.8%美元偏软，港股今日跌1.3%。等待美股开盘方向确认。📊 观望",
+    "en": "F&G at 63 (Greed) but put/call ratio crashes to panic (31) ⚡ — sharp internal divergence. BoE holds rates but warns inflation is unavoidable. Oil -2.5%, gold +1.8% with USD soft. Awaiting US open for direction confirmation. 📊 Neutral/wait.",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T19:47:43.831908+08:00",
+    "ts": 1777549663
   },
   {
-    "timestamp": "2026-04-22T20:48:48.607035",
-    "text": "伊朗戰爭恐慌升溫，油價急升逼近$100兼食緊能源股，而加密同貨幣走強反映資金重估，美股今日有機會開市反彈，惟地緣風險如劍懸頂仍要留神。",
-    "market_snapshot": {
-      "sp500_change": -0.6348,
-      "nasdaq_change": -0.5918,
-      "dow_change": -0.593,
-      "oil_price": 90.93,
-      "gold_price": 4767.1,
-      "bitcoin_price": 78336.45,
-      "vix": 18.99
-    },
-    "top_news": "Middle East conflict escalation, oil near $100, crypto rally"
+    "zh_hk": "油價衝四年新高，美軍醞釀打擊伊朗引爆地緣恐慌，金價升近2%、港股挫1.3%。期權認購認沽比僅31（恐慌），與整體F&G貪婪指數(63)背馳⚡ 盤前方向待確認，偏淡📉",
+    "zh_cn": "油价冲四年新高，美军酝酿打击伊朗引爆地缘恐慌，金价涨近2%、港股跌1.3%。期权认购认沽比仅31（恐慌），与整体贪婪指数(63)出现明显背离⚡ 盘前方向待确认，偏淡📉",
+    "en": "Oil surged to 4-year highs amid reports of US military strike plans against Iran, driving gold up ~2% while HSI fell 1.3%. Options Put/Call ratio at 31 (Fear) diverges sharply from the overall Greed reading (63) ⚡ — a bearish undercurrent. US pre-market open direction unconfirmed. Bearish lean 📉",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T18:57:30.360726+08:00",
+    "ts": 1777546650
   },
   {
-    "timestamp": "2026-04-27T12:45:58.793280Z",
-    "date": "2026-04-27",
-    "time_hkt": "20:45",
-    "text": "伊朗美談停滯、荷爾木茲受阻推高油價1.4%，Shell併購加拿大頁岩油再添能源題材；科技領軍上升（納指+1.63%、XLK+2.8%），美股開市偏強，惟加密貨幣疲弱、亞股混淆，警惕VIX升溫風險。",
-    "market_snapshot": {
-      "sp500_change": "+0.80%",
-      "nasdaq_change": "+1.63%",
-      "oil_change": "+1.41%",
-      "vix_level": "19.09"
-    },
-    "key_drivers": [
-      "Iran-US diplomatic stalemate",
-      "Hormuz Strait disruptions",
-      "Shell ARC acquisition ($16B)",
-      "Tech sector strength",
-      "Goldman oil forecast upgrade"
-    ]
+    "zh_hk": "⚡F&G分歧響警號：標普動力93極貪，但認購認沽比31極恐。特朗普伊朗打擊方案曝光，金油齊升，港股挫1.3%。美股盤前走勢待確認。🛢️ 偏淡",
+    "zh_cn": "⚡F&G分歧警号：标普动力93极贪，但认购认沽比31极恐。特朗普伊朗打击方案曝光，金油齐升，港股挫1.3%。美股盘前方向待确认。🛢️ 偏空",
+    "en": "⚡ F&G divergence alert: S&P momentum at 93 (extreme greed) but put/call ratio at 31 (extreme fear). Trump Iran strike options leaked, gold surges +1.6%, HSI drops -1.3%. Pre-market direction unconfirmed. 🛢️ Bearish lean",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T18:08:32.245415+08:00",
+    "ts": 1777543712
   },
   {
-    "timestamp": 1777466757,
-    "date": "2026-04-29",
-    "time": "20:46 HKT",
-    "commentary": "伊朗海峽膠著油價狂飆，UAE退OPEC擊波油市格局；美股昨跌港股升，地緣風險與AI投資拉鋸。聯儲今週開會，Powell任期倒數，美股開市預料中性偏弱，先睇技術支撑。",
-    "market_snapshot": {
-      "sp500": -0.49,
-      "nasdaq": -0.9,
-      "hsi": 1.6825,
-      "gold": -0.8593,
-      "wti": 3.8727
-    },
-    "categories": [
-      "地緣政治",
-      "能源",
-      "美股",
-      "AI投資",
-      "Fed會議"
-    ]
+    "zh_hk": "布蘭特原油飆7%至四年新高🛢️，市場傳美國考慮對伊朗動武，油價已逼$115。FOMC鷹派令摩根士丹利推遲降息預測；認購認沽比急跌至31（恐慌）同貪婪指數背馳⚡，大戶喺貪婪氣氛下繼續重手買保險。今晚Apple業績+新CEO蓄勢，滯脹風險升溫——偏淡。",
+    "zh_cn": "布伦特原油飙7%创四年新高🛢️，消息称美国考虑对伊朗动武，油价逼近$115。鹰派FOMC令摩根士丹利推迟降息预测；认购认沽比跌至31（恐慌）与贪婪指数背离⚡，大户在贪婪情绪下继续大手买保险。今晚Apple财报+新CEO亮相，滞胀风险升温——偏淡。",
+    "en": "Brent crude jumps 7% to a 4-year high🛢️ on reports the US is weighing military options against Iran, with prices nearing $115. A hawkish FOMC pushes Morgan Stanley to delay rate-cut forecasts; the put/call ratio drops to 31 (fear), diverging sharply from the 63.4 greed reading ⚡. Apple earnings with incoming CEO Ternus tonight adds to stagflation jitters — lean bearish.",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T17:16:54.805839+08:00",
+    "ts": 1777540614
+  },
+  {
+    "zh_hk": "伊朗打擊計劃曝光，油價衝108美元創2022年新高，黃金+1.5%，港股今日跌1.3%。F&G標普動力93極貪但認購認沽比31恐慌，分歧明顯⚡。美股盤前方向待確認，傾向觀望。",
+    "zh_cn": "伊朗打击计划曝光，油价冲108美元创2022年新高，黄金+1.5%，港股今日跌1.3%。F&G标普动力93极贪但认沽比31恐慌，分歧明显⚡。美股盘前方向待确认，短线观望。",
+    "en": "Iran strike plan leaked; oil surges to $108 (2022 high), gold +1.5%. HSI fell -1.3% today. F&G divergence: S&P momentum at 93 (extreme greed) vs put/call ratio at 31 (fear) ⚡. US pre-market direction pending — neutral/cautious bias.",
+    "fg_score": 63.4,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T16:27:58.882480+08:00",
+    "ts": 1777537678
+  },
+  {
+    "zh_hk": "美國考慮對伊朗動武，布蘭特油急升7%創2022高位，恒指午後跌1.2%，金價衝上4600。⚡期權put/call比率跌至恐慌（31）vs動力極貪（93），避險需求爆錶（96），地緣黑天鵝主導，偏淡 🛢️",
+    "zh_cn": "美国考虑对伊朗动武，布伦特油急升7%创2022高位，恒指午后跌1.2%，金价冲上4600。⚡期权put/call比率跌至恐慌（31）vs动力极贪（93），避险需求爆表（96），地缘黑天鹅主导，偏淡 🛢️",
+    "en": "Reports US considering military action against Iran sent Brent crude +7% to 2022 highs. HSI -1.2% in afternoon. Gold at 4600. ⚡F&G divergence: S&P momentum extreme greed (93) but put/call ratio fear (31), safe haven demand 96 — geopolitical risk-off overriding headline greed. Bearish lean. 🛢️",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T15:37:44.079079+08:00",
+    "ts": 1777534664
+  },
+  {
+    "zh_hk": "恒指跌1.2%，Axios爆美軍CENTCOM已備「短促強力」空襲伊朗方案，油價企$108不退。Put/Call比率31仍顯恐慌，與整體貪婪背離。今晚GDP+Apple業績係雙重考驗，偏淡觀望 ⚠️🛢️",
+    "zh_cn": "恒指跌1.2%，Axios爆料美军CENTCOM已备「短促强力」空袭伊朗方案，油价企$108不退。认购认沽比31仍显恐慌，与整体贪婪背离。今晚GDP+苹果业绩是双重考验，偏淡观望 ⚠️🛢️",
+    "en": "HSI drops 1.2% as Axios reports CENTCOM has prepared 'short and powerful' strike plans against Iran. Oil holds at $108. Put/Call at 31 (fear) diverges from overall greed signal. Tonight's Q1 GDP + Apple earnings are the dual test. Cautiously bearish. ⚠️🛢️",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T15:10:47.767296+08:00",
+    "ts": 1777533047
+  },
+  {
+    "zh_hk": "⚠️突發: 荷莫茲航運危機升溫，美國急組聯盟保障通行，油價飆+3%、VIX急升5.5%！港股跌1.1%，中東局勢係元兇。F&G認沽/認購比入恐慌（31）但標普動力極度貪婪（93），分歧大——小心反轉。偏淡 🛢️⚡",
+    "zh_cn": "⚠️突发: 美国紧急组建联盟保障霍尔木兹海峡航运，中东地缘风险骤升！油价飙涨+3%、VIX急升5.5%，港股跌1.1%。F&G看跌/看涨比入恐慌区（31），但标普动力极度贪婪（93），分歧明显——警惕见顶风险。偏空 🛢️⚡",
+    "en": "⚠️Breaking: US seeks coalition to secure Hormuz Strait shipping — Mideast geopolitical risk surging! Oil +3%, VIX +5.5%, HSI -1.1%. F&G put/call ratio in Fear zone (31) vs S&P momentum at Extreme Greed (93) — major divergence, watch for reversal. Bearish bias 🛢️⚡",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:43:13.313493+08:00",
+    "ts": 1777531393
+  },
+  {
+    "zh_hk": "⚠️突發：洩露電纜揭示美國擬組聯盟重開荷莫茲海峽，油價急彈3%！港股跌1%，VIX升5.5%，認購認沽比跌至恐慌水平。地緣風險升溫，避險需求極強，F&G表面貪婪藏戒心。偏淡 🛢️📉",
+    "zh_cn": "⚠️突发：泄露电缆显示美国拟组联盟重开霍尔木兹海峡，油价急弹3%！港股跌1%，VIX升5.5%，认购认沽比跌至恐慌水平。地缘风险升温，避险需求极强，F&G表面贪婪藏戒心。偏淡 🛢️📉",
+    "en": "⚠️BREAKING: Leaked US cable reveals Washington seeking coalition to reopen Hormuz Strait. Oil +3%, HSI -1%, VIX +5.5%. Put/Call ratio at panic zone despite overall F&G greed — geopolitical risk rising, hidden caution beneath surface bullishness. Cautiously bearish. 🛢️📉",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:38:05.439507+08:00",
+    "ts": 1777531085
+  },
+  {
+    "zh_hk": "⚠️突發：美軍伊朗空襲計劃曝光，布蘭特油價衝破125美元創2022年高位，霍爾木茲海峽封鎖持續升級！港股跌1.2%，VIX升5.5%，通脹壓力急升。⚡認購認沽比（31恐慌）vs 避險需求（96極貪婪）嚴重背馳，能源板塊受惠，大市偏淡 🛢️",
+    "zh_cn": "⚠️突发：美军伊朗空袭计划曝光，布伦特原油突破125美元创2022新高，霍尔木兹封锁持续升级！恒指跌1.2%，VIX升5.5%，输入型通胀压力骤增。⚡认购认沽比（31恐慌）vs 避险需求（96极度贪婪）严重背离，能源板块受益，大市偏空 🛢️",
+    "en": "⚠️BREAKING: US Central Command Iran strike plan leaked, Brent crude surges past $125 — highest since 2022. Hormuz blockade intensifying. HSI -1.2%, VIX +5.5%. Put/call ratio (31, fear) vs safe-haven demand (96, extreme greed) diverging sharply. Energy outperforms, broad market bearish. 🛢️",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:32:19.350602+08:00",
+    "ts": 1777530739
+  },
+  {
+    "zh_hk": "⚠️突發：澳洲Bondi槍擊調查揭露猶太機構早獲「高威脅」警告，疊加美國謀求荷姆茲聯盟，地緣風險升溫。VIX彈5.5%、油價升2.6%，港股跌1.3%。⚡認沽比恐慌vs標普動力極貪婪嚴重背馳，短線謹慎。📉 偏淡",
+    "zh_cn": "⚠️突发：悉尼Bondi枪击报告揭示犹太机构早获「高威胁」警告，叠加美军谋求霍尔木兹海峡新联盟，地缘风险升温。VIX涨5.5%、油价升2.6%，港股跌1.3%。⚡恐慌/贪婪认沽比恐慌与标普动量极贪婪严重背离，短线偏空。📉",
+    "en": "⚠️Breaking: Bondi shooting report reveals Jewish institutions received prior 'high threat' warnings; US seeking Hormuz coalition amplifies geopolitical risk. VIX +5.5%, oil +2.6%, HSI -1.3%. ⚡F&G put/call ratio shows panic while S&P momentum is extreme greed — major divergence, stay cautious. Bearish 📉",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:26:51.130249+08:00",
+    "ts": 1777530411
+  },
+  {
+    "zh_hk": "⚠️突發: 報道指Trump將被簡述伊朗軍事打擊選項，油價飆升至109美元創2022年新高🛢️。港股跌逾1%，VIX抽升5.5%。F&G認購認沽比跌至31（恐慌），同動力指標93形成罕見分歧，表面貪婪、底層已有避險跡象。偏淡",
+    "zh_cn": "⚠️突发：报道称Trump将被简述伊朗军事打击方案，油价飙升至109美元创2022年来新高🛢️。港股跌逾1%，VIX抽升5.5%。F&G看跌/看涨比降至31（恐慌），与动力指标93形成罕见分歧，市场表面贪婪、底层已现避险迹象。偏淡",
+    "en": "⚠️Breaking: Reports Trump to be briefed on Iran strike options sent oil surging to $109, highest since 2022🛢️. HSI drops 1.2%, VIX jumps 5.5%. F&G put/call ratio at 31 (fear) sharply contrasts momentum at 93 (extreme greed) — surface optimism masking underlying hedging. Bearish tilt.",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:21:16.944565+08:00",
+    "ts": 1777530076
+  },
+  {
+    "zh_hk": "⚠️突發：美謀聯盟保荷木茲通航，StanChart撥備伊朗戰爭損失，油價飆+2.2%。港股跌1.2%，VIX急升5.5%，F&G認購認沽比僅31（恐慌），地緣風險升溫，短線偏淡。🛢️",
+    "zh_cn": "⚠️突发：美寻联盟保霍尔木兹通航，油价飙+2.2%。恒指跌1.2%，VIX急升5.5%，F&G认购认沽比仅31（恐慌），地缘风险升温，短线偏淡。🛢️",
+    "en": "⚠️Breaking: US rallying allies to restore Hormuz shipping amid Iran war; StanChart books $190M provision. Oil surges +2.2%, HSI -1.2%, VIX +5.5%. F&G put/call ratio at fear (31) vs overall greed—divergence warning. Near-term bearish. 🛢️",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:16:09.988108+08:00",
+    "ts": 1777529769
+  },
+  {
+    "zh_hk": "港股午後跌逾1%，CENTCOM伊朗打擊計劃外洩，油價急彈2.3%至$109，地緣風險主導🛢️ VIX飆升5.5%，F&G認沽比仍係恐慌（31）vs動力極度貪婪（93）出現背馳，避險需求達96，資金暗流湧動。偏淡⚠️",
+    "zh_cn": "港股午后跌逾1%，CENTCOM对伊朗打击计划外泄，油价急涨2.3%至$109，地缘风险主导🛢️ VIX飙升5.5%，F&G认沽比仍处恐慌（31）vs动力极度贪婪（93）出现背离，避险需求达96，资金暗流涌动。偏淡⚠️",
+    "en": "HK stocks fell 1%+ in afternoon as CENTCOM Iran strike briefing leaked, oil surged 2.3% to $109 — geopolitical risk in the driver's seat 🛢️ VIX +5.5%, F&G put/call at panic (31) vs price momentum extreme greed (93) — a notable divergence with safe-haven demand at 96. Bearish bias ⚠️",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T14:00:01.791647+08:00",
+    "ts": 1777528801
+  },
+  {
+    "zh_hk": "中東局勢升溫推高油價衝上$109💥，港股跌1.4%。CENTCOM擬對伊朗發動打擊，霍爾木茲海峽航運受威脅。F&G認沽認購比急跌至31（恐慌），Smart Money低調對沖，市場外貌貪婪內有隱憂。⚠️ 偏淡",
+    "zh_cn": "中东局势升温推高油价冲上$109💥，恒指跌1.4%。CENTCOM拟对伊朗发动打击，霍尔木兹海峡航运受威胁。F&G认沽认购比急跌至31（恐慌），聪明钱悄悄对冲，市场外表贪婪内藏隐忧。⚠️ 偏淡",
+    "en": "Geopolitical tensions drive oil to $109 (+2.4%) as CENTCOM reportedly preps Iran strikes with Hormuz at risk. HSI drops 1.4%. Despite F&G overall at 63 (Greed), put/call ratio at 31 signals Fear—smart money quietly hedging the divergence. ⚠️ Bearish lean",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T13:32:44.777689+08:00",
+    "ts": 1777527164
+  },
+  {
+    "zh_hk": "中東局勢劍拔弩張，CENTCOM擬打伊朗，布油升穿$123，WTI升2.7%。港股跌1.2%，VIX彈5.5%。⚡F&G認購認沽比跌至恐慌(31)，與標普動力(93極貪)背馳——市場暗中對沖，後市唔穩 📉 偏淡",
+    "zh_cn": "中东局势剑拔弩张，CENTCOM拟打伊朗，布油升穿$123，WTI涨2.7%。港股跌1.2%，VIX反弹5.5%。⚡F&G认购认沽比跌至恐慌(31)与标普动力(93极贪)背离——市场暗中对冲，后市不稳 📉 偏空",
+    "en": "Middle East escalates as CENTCOM readies Iran strike options; Brent surges past $123, WTI +2.7%. HSI -1.2%, VIX +5.5% flags rising fear. ⚡F&G divergence: S&P momentum extreme greed (93) vs Put/Call panic (31)—stealth hedging underway, unstable outlook 📉 Bearish lean",
+    "fg_score": 63.6,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T13:03:30.276386+08:00",
+    "ts": 1777525410
+  },
+  {
+    "zh_hk": "CENTCOM對伊朗打擊計劃曝光，油價抽上$109 (+2.4%)，恒指午前跌1.2%。VIX彈升5.5%，⚡認購認沽比跌入恐慌區（31），對沖盤湧入。下午留意避險情緒繼續施壓。偏淡 🛢️",
+    "zh_cn": "CENTCOM对伊朗打击计划曝光，油价冲上$109（+2.4%），恒指午前跌1.2%。VIX弹升5.5%，⚡认购认沽比跌入恐慌区（31），对冲盘涌入。下午关注避险情绪持续施压。偏淡 🛢️",
+    "en": "CENTCOM's Iran strike plans leaked, crude surges to $109 (+2.4%). HSI down 1.2% at lunch break. VIX spikes 5.5%; put/call ratio hits fear territory (31), diverging from overall greed F&G. Watch for continued risk-off selling in afternoon session. Bias: bearish 🛢️",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T12:25:48.490966+08:00",
+    "ts": 1777523148
+  },
+  {
+    "zh_hk": "CENTCOM研究伊朗打擊方案，地緣風險升溫🛢️ 港股跌1.4%、油彈2.1%、VIX升5.5%，F&G認購認沽比31(恐慌)與標普動力93背離⚡，情緒分裂偏淡",
+    "zh_cn": "美国CENTCOM研究打击伊朗计划，地缘风险升温🛢️ 港股跌1.4%、原油涨2.1%、VIX升5.5%，F&G认购沽比降至31（恐慌区）与动力指标背离⚡，市场情绪分裂偏淡",
+    "en": "CENTCOM briefing Trump on Iran strike plans, geopolitical risk rising 🛢️ HSI -1.4%, crude +2.1%, VIX +5.5%. F&G put/call ratio at 31 (fear) diverging sharply from price momentum at 93 ⚡ — mixed signals. Bearish bias.",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T11:39:51.000808+08:00",
+    "ts": 1777520391
+  },
+  {
+    "zh_hk": "⚠️突發：Trump拒絕伊朗霍爾木茲封鎖建議，原油急漲逾1.6%破108美元！港股受壓跌1.2%，認購認沽比跌入恐慌區⚡，避險需求極度貪婪（96）與期權恐慌背馳。油價持續飆升恐重燃通脹憂慮，短線偏淡。🛢️",
+    "zh_cn": "⚠️突发：特朗普拒绝伊朗霍尔木兹提议维持封锁，原油急涨逾1.6%破108美元！港股承压跌1.2%，认购认沽比跌入恐慌区⚡，避险需求极度贪婪（96）与期权恐慌背驰。油价持续飙升恐重燃通胀忧虑，短线偏空。🛢️",
+    "en": "⚠️Breaking: Trump rejects Iran's Hormuz offer, sustains blockade — crude surges 1.6%+ above $108. HSI drops 1.2% as risk aversion spikes; put/call ratio in panic zone ⚡ diverges from extreme safe-haven demand (96). Sustained oil rally may reignite inflation fears. Short-term bearish. 🛢️",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T11:12:41.734450+08:00",
+    "ts": 1777518761
+  },
+  {
+    "zh_hk": "⚠️突發：美CENTCOM傳備戰伊朗，荷莫茲海峽緊張升溫，油價彈2%至$109⛽ 港股午前跌1.3%，F&G雖63（貪婪），但認沽比淪恐慌出現背離⚡ 地緣風險主導，短線偏淡",
+    "zh_cn": "⚠️突发：美CENTCOM传备战伊朗，霍尔木兹海峡局势升温，油价弹2%至109美元⛽ 港股午前跌1.3%，F&G虽63（贪婪），但认购认沽比跌至恐慌区出现背离⚡ 地缘风险主导，短线偏空",
+    "en": "⚠️Breaking: CENTCOM reportedly briefing Trump on Iran strike plans, Hormuz tensions rising — crude +2% to $109⛽ HSI -1.3% on risk-off. F&G 63 (Greed) but Put/Call ratio at 31 (Fear) — divergence ⚡. Geopolitical risk in focus. Bearish bias near-term.",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T11:02:37.342897+08:00",
+    "ts": 1777518157
+  },
+  {
+    "zh_hk": "⚠️突發：CENTCOM備戰伊朗「短暫強力打擊」，特朗普即將聽匯報，地緣風險驟升！油價+1.85%、港股跌1.3%，VIX急升5.5%。F&G認沽比率跌至恐慌區（31），避險需求卻達極度貪婪（96），市場暗流洶湧，短線偏淡。🛢️⚡",
+    "zh_cn": "⚠️突发：CENTCOM备战伊朗「短暂强力打击」，特朗普即将听汇报，地缘风险骤升！油价+1.85%、港股跌1.3%，VIX急升5.5%。F&G认沽比率跌至恐慌区（31），避险需求却达极度贪婪（96），市场暗流涌动，短线偏淡。🛢️⚡",
+    "en": "⚠️Breaking: CENTCOM prepares 'brief but powerful' Iran strike plan, Trump briefing imminent — geopolitical risk spikes! Oil +1.85%, HSI -1.31%, VIX +5.5%. F&G put/call ratio hits panic zone (31) while safe-haven demand surges to extreme greed (96) — smart money is hedging hard. Bearish near-term. 🛢️⚡",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "trigger": "breaking",
+    "generated_at": "2026-04-30T10:55:57.335596+08:00",
+    "ts": 1777517757
+  },
+  {
+    "zh_hk": "🛢️地緣突變！CENTCOM據報準備對伊朗軍事打擊，荷莫茲海峽局勢升溫，油價急升+1.8%、VIX彈5.5%，港股跌1.2%。期權認沽比僅31（恐慌）與F&G貪婪背馳，避險需求極高，短線偏淡。⚠️",
+    "zh_cn": "🛢️地缘突变！CENTCOM据报准备对伊朗军事打击，霍尔木兹海峡局势升温，油价急升+1.8%、VIX弹5.5%，港股跌1.2%。期权认沽比仅31（恐慌）与F&G贪婪背离，避险需求极高，短线偏淡。⚠️",
+    "en": "🛢️ Geopolitical shock: CENTCOM reportedly briefing Trump on Iran strike plans; Strait of Hormuz tensions spike oil +1.8% and VIX +5.5%. HSI drops -1.2%. Options put/call ratio at fear (31) sharply diverges from F&G greed reading — safe-haven demand surging. ⚠️ Bearish near-term.",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T10:49:37.913122+08:00",
+    "ts": 1777517377
+  },
+  {
+    "zh_hk": "Mag 7財報靚麗托住美股，但港股跌0.8%跟唔上。荷莫茲海峽緊張令油價守107、金價升至4588。⚡ F&G警號：標普動力93極貪婪但認沽比僅31仍恐慌，市場明升暗守。偏觀望。📊",
+    "zh_cn": "Mag 7财报靓丽托住美股，但港股跌0.8%跟不上。霍尔木兹海峡紧张令油价守107、金价升至4588。⚡ F&G警号：标普动力93极贪婪但认沽比仅31仍恐慌，市场明升暗守。偏观望。📊",
+    "en": "Mag 7 earnings lifted US futures but HSI still down 0.8%. Hormuz tensions keeping oil at $107 and gold at $4,588. ⚡ F&G divergence alert: S&P momentum at 93 (extreme greed) but put/call ratio at 31 (fear) — markets quietly hedging. Neutral/cautious. 📊",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T10:22:55.145191+08:00",
+    "ts": 1777515775
+  },
+  {
+    "zh_hk": "⚠️突發：邦迪皇委槍支改革建議市場影響微。港股早段跌0.6%，VIX急升5.5%波動升溫，美伊海軍對峙撐油價高企；認購認沽比（31）恐慌信號與標普動力（93）極貪背馳，下行壓力潛伏。📊偏淡",
+    "zh_cn": "⚠️突发：澳洲邦迪皇委枪支改革建议市场影响有限。港股跌0.6%，VIX飙升5.5%，美伊海峡对峙撑油价；认购认沽比（31）恐慌信号与标普动力（93）极度贪婪背离，下行风险潜伏。📊偏空观望",
+    "en": "⚠️Breaking: Australia Bondi Royal Commission gun reform recs — minimal market impact. HSI -0.6%, VIX +5.5% signals rising vol; US-Iran naval standoff keeps oil elevated. Put/Call ratio (31, Fear) diverges sharply vs S&P momentum (93, Extreme Greed) — latent downside risk. 📊 Bearish bias",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T09:55:39.589972+08:00",
+    "ts": 1777514139
+  },
+  {
+    "zh_hk": "⚠️突發: 七巨頭財報亮眼撐美期穩守，但港股跌0.5%、VIX急升5.5%明顯背離。F&G恐慌認沽比（31）VS標普動力極貪（93）係⚡大分歧警號，荷美茲緊張局勢頂住油價。偏淡觀望 🛢️",
+    "zh_cn": "⚠️突发: 七巨头财报亮眼支撑美期企稳，但港股跌0.5%、VIX急升5.5%明显背离。F&G恐慌认沽比（31）VS标普动力极贪（93）出现⚡大分歧警号，霍尔木兹紧张局势支撑油价。偏空观望 🛢️",
+    "en": "⚠️BREAKING: Mag 7 earnings shine, US futures steady, but HSI -0.53% and VIX surging +5.5% diverge sharply. F&G put/call panic (31) vs S&P momentum extreme greed (93) is a major⚡ divergence warning; Hormuz tensions underpin oil. Bearish lean 🛢️",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T09:50:36.119803+08:00",
+    "ts": 1777513836
+  },
+  {
+    "zh_hk": "⚠️突發：美伊封鎖僵局持續，VIX急升5.5%，金油同步走高，港股跌0.6%壓力未消。Put比率驟降至恐慌區（31），期權市場唔信呢浪升勢，偏淡。⚡",
+    "zh_cn": "⚠️突发：美伊封锁僵局持续，VIX急升5.5%，金油同步走高，港股跌0.6%压力未消。认购认沽比率骤降恐慌区（31），期权市场不信这波升势，偏空。⚡",
+    "en": "⚠️Breaking: US-Iran naval blockade standoff persists, VIX surges +5.5%, gold & oil rise together. HSI -0.6% under pressure. Put/call ratio at fear level (31) signals options market doubts the rally. Lean bearish. ⚡",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T09:43:59.643720+08:00",
+    "ts": 1777513439
+  },
+  {
+    "zh_hk": "港股早段微跌，恒指-0.35%。美宣布持續封鎖伊朗油輸出，油金齊升，VIX彈5.5%。F&G避險需求達96極貪婪⚡但認購認沽比僅31（恐慌）現明顯分歧，期權市場對沖情緒濃厚。短線觀望偏淡。📊",
+    "zh_cn": "港股早盘微跌，恒指-0.35%。美国维持伊朗海上封锁，油金齐升，VIX升5.5%。F&G避险需求达96极度贪婪⚡但认购认沽比仅31（恐慌）形成明显分歧，期权对冲情绪浓厚。短线观望偏淡。📊",
+    "en": "HSI down 0.35% early trade. US reaffirms Iran naval blockade, lifting oil +0.55% and gold +0.37%. VIX spikes 5.5%. F&G safe haven demand hits 96 (extreme greed)⚡ while put/call ratio sits at 31 (fear) — a sharp divergence signaling underlying hedging. Short-term: neutral/cautious. 📊",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T09:39:06.330835+08:00",
+    "ts": 1777513146
+  },
+  {
+    "zh_hk": "VIX飆5.5%係警號，F&G認購認沽比跌至恐慌區(31)同指數動力(93)嚴重分歧⚡黃金油價齊升顯資金避險。Alphabet業績靚撐科技，但道指跌0.6%。港股開市留意情緒反轉風險📊 偏淡",
+    "zh_cn": "VIX飙涨5.5%是警示，F&G认购认沽比跌至恐慌区(31)与指数动力(93)严重分歧⚡黄金油价齐升显资金避险。Alphabet业绩靓撑科技，但道指跌0.6%。港股开市留意情绪反转风险📊 偏淡",
+    "en": "VIX +5.5% — warning sign. F&G divergence ⚡: momentum at extreme greed (93) but put/call ratio in fear zone (31). Gold & oil rising on safe-haven demand (indicator 96). Alphabet's earnings beat supports tech, but Dow slid 0.6%. HK open: watch for sentiment reversal. 📊 Slightly bearish",
+    "fg_score": 63.7,
+    "fg_rating": "貪婪",
+    "generated_at": "2026-04-30T09:12:17.842826+08:00",
+    "ts": 1777511537
   }
 ]
