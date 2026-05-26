@@ -1,21 +1,13 @@
 {
-  "zh_hk": "美股連日回軟，科技股領跌兼AI熱潮退卻，加上伊朗局勢升溫令油氣價格竄升，通脹擔憂捲土重來；惟恒指同步下挫，中國煤炭產量疲軟兼煉油廠削減，整體風險情緒轉弱。今晚美股開市料延續調整，留意聯儲政策信號同中美貿易動向。",
-  "zh_cn": "美股连日回软，科技股领跌兼AI热潮褪去，加上伊朗局势升温令油气价格窜升，通胀担忧卷土重来；惟恒指同步下挫，中国煤炭产量疲软兼炼油厂削减，整体风险情绪转弱。今晚美股开市料延续调整，留意美联储政策信号同中美贸易动向。",
-  "en": "US equities retreat on AI cooldown and rising Middle East tensions, with oil/gas prices spiking and inflation fears resurfacing. Hang Seng dips 1.11%, China coal output softens, refinery cuts persist. Expect further US market adjustment at tonight's open; watch Fed policy signals and US-China trade moves closely.",
-  "fg_score": 65,
-  "fg_rating": "cautious",
-  "vix": 18.59,
-  "vix_chg": 0.87,
-  "sp500": 7408.5,
-  "sp500_chg": -1.24,
-  "nasdaq_chg": -1.54,
-  "hang_seng_chg": -1.11,
-  "primary_driver": "AI行情冷卻 + 中東地緣升溫 + 中國經濟數據疲軟",
-  "driver_confidence": "high",
-  "quality_passed": true,
-  "quality_issues": [],
-  "pipeline_version": "v2",
-  "commentary_mode": "us_premarket",
-  "generated_at": "2026-05-18T12:46:15.678100+00:00",
-  "ts": 1779108375
+  "timestamp": 1779799614,
+  "date": "2026-05-26",
+  "time": "20:46:54",
+  "commentary": "美伊談判有期望，油價應聲跌近4%至92.8蚊，紓緩通脹憂慮。美股微升勢頭見盤整，道指領漲0.58%，VIX平穩16.7。美股開市料延續溫和上揚，惟能源股受油價拖累，留意談判進展信號。",
+  "source": "charsiujai_premarket_update",
+  "market_context": {
+    "oil_wti": -3.93,
+    "spx_change": 0.37,
+    "dow_change": 0.58,
+    "vix": 16.7
+  }
 }
