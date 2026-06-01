@@ -1,13 +1,19 @@
 {
-  "timestamp": 1779799614,
-  "date": "2026-05-26",
-  "time": "20:46:54",
-  "commentary": "美伊談判有期望，油價應聲跌近4%至92.8蚊，紓緩通脹憂慮。美股微升勢頭見盤整，道指領漲0.58%，VIX平穩16.7。美股開市料延續溫和上揚，惟能源股受油價拖累，留意談判進展信號。",
-  "source": "charsiujai_premarket_update",
-  "market_context": {
-    "oil_wti": -3.93,
-    "spx_change": 0.37,
-    "dow_change": 0.58,
-    "vix": 16.7
-  }
+  "zh_hk": "今日美股期貨微升，雖然以色列再炸貝魯特令中東局勢升溫，搞到期油急彈3%上90蚊，但市場憧憬美伊和談，加上恐慌指數VIX回落，預計今晚美股開市會反覆向好，大家留意住油價對通脹嘅後續影響啦！",
+  "zh_cn": "美伊军事冲突升级，油价飙涨3.45%、WTI突破$90，科威特防空系统都启动了！股市虽勉强小涨，但VIX跳涨近3%，今天的地缘风险可不是闹着玩的！🔥",
+  "en": "US-Iran tensions just blew up — literally! WTI crude surged 3.45% past $90, Kuwait activated air defenses, and VIX spiked nearly 3%. Stocks held on with a tiny gain, but this char siu bun is sweating through his wrapper! 🔥",
+  "fg_score": null,
+  "fg_rating": "unknown",
+  "vix": 15.77,
+  "vix_chg": 2.94,
+  "sp500": 7580.06,
+  "sp500_chg": 0.22,
+  "primary_driver": "美伊軍事衝突升級，油價急升3%至布倫特$94，抵銷股市升幅",
+  "driver_confidence": "high",
+  "quality_passed": true,
+  "quality_issues": [],
+  "pipeline_version": "v2",
+  "commentary_mode": "us_premarket",
+  "generated_at": "2026-06-01T20:45:00+08:00",
+  "ts": 1780317900
 }
