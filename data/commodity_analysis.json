@@ -1,54 +1,70 @@
 {
-  "ts": 1777064296,
-  "generated_at": "2026-04-25T04:58:16.685828+08:00",
-  "gold_text": "黃金今日微升零點四厘，缺乏重大經濟數據刺激，市場靜待美聯儲政策信號，美元走勢溫和，避險需求平穩，短期睇淡不明顯。💰",
-  "oil_text": "布蘭特跌幅逾四厘，WTI亦見回軟，市場憂慮全球經濟放緩拖累需求，加上美元走強打壓油價，短期承壓向下。⬇️",
-  "crypto_text": "比特幣跌穿七萬八美元，缺乏新聞面支撑，大戶套現減持，短期承壓；以太坊跌幅較淺，惟整體市況偏弱，宜持貨觀望。📉",
+  "ts": 1782477926,
+  "generated_at": "2026-06-26T20:45:26.803147+08:00",
+  "gold_text": "黃金今日小幅上揚，美元指數疲弱、實際利率回落提供支撑，加上地緣政治風險未散，避險買盤持續湧入，金價企穩四千關口之上。📈",
+  "oil_text": "油價今日急跌3%，WTI跌穿70美元，兩桶油齊聲下行，惟缺乏具體利淡頭條支持，原因待確認，留意OPEC+後續聲明。⛽",
+  "crypto_text": "比特幣今日弱勢下跌，缺乏利好消息刺激，加上以太坊跌幅更深，反映市場風險偏好走低，短期宜觀望為主。📉",
   "gold": {
-    "zh_hk": "黃金今日微升零點四厘，缺乏重大經濟數據刺激，市場靜待美聯儲政策信號，美元走勢溫和，避險需求平穩，短期睇淡不明顯。💰",
+    "zh_hk": "黃金今日小幅上揚，美元指數疲弱、實際利率回落提供支撑，加上地緣政治風險未散，避險買盤持續湧入，金價企穩四千關口之上。📈",
     "price": {
       "symbol": "GC=F",
-      "price": 4724.1,
-      "prev_close": 4705.1,
-      "change_pct": 0.4,
+      "name_zh_hk": "黃金",
+      "name_zh_cn": "黄金",
+      "name_en": "Gold",
+      "emoji": "🥇",
+      "price": 4063.1,
+      "prev_close": 4047.6,
+      "change_pct": 0.3829,
       "currency": "USD",
       "_src": "yahoo"
     }
   },
   "oil": {
-    "zh_hk": "布蘭特跌幅逾四厘，WTI亦見回軟，市場憂慮全球經濟放緩拖累需求，加上美元走強打壓油價，短期承壓向下。⬇️",
+    "zh_hk": "油價今日急跌3%，WTI跌穿70美元，兩桶油齊聲下行，惟缺乏具體利淡頭條支持，原因待確認，留意OPEC+後續聲明。⛽",
     "price_wti": {
       "symbol": "CL=F",
-      "price": 95.02,
-      "prev_close": 95.85,
-      "change_pct": -0.87,
+      "name_zh_hk": "WTI原油",
+      "name_zh_cn": "WTI原油",
+      "name_en": "WTI Oil",
+      "emoji": "🛢️",
+      "price": 69.7,
+      "prev_close": 71.92,
+      "change_pct": -3.0868,
       "currency": "USD",
       "_src": "yahoo"
     },
     "price_brent": {
       "symbol": "BZ=F",
-      "price": 100.01,
-      "prev_close": 105.07,
-      "change_pct": -4.82,
+      "price": 73.03,
+      "prev_close": 75.26,
+      "change_pct": -2.96,
       "currency": "USD",
       "_src": "yahoo"
     }
   },
   "crypto": {
-    "zh_hk": "比特幣跌穿七萬八美元，缺乏新聞面支撑，大戶套現減持，短期承壓；以太坊跌幅較淺，惟整體市況偏弱，宜持貨觀望。📉",
+    "zh_hk": "比特幣今日弱勢下跌，缺乏利好消息刺激，加上以太坊跌幅更深，反映市場風險偏好走低，短期宜觀望為主。📉",
     "price_btc": {
       "symbol": "BTC-USD",
-      "price": 77760.13,
-      "prev_close": 78268.95,
-      "change_pct": -0.65,
+      "name_zh_hk": "比特幣",
+      "name_zh_cn": "比特币",
+      "name_en": "Bitcoin",
+      "emoji": "₿",
+      "price": 59060.73,
+      "prev_close": 59706.754,
+      "change_pct": -1.082,
       "currency": "USD",
       "_src": "yahoo"
     },
     "price_eth": {
       "symbol": "ETH-USD",
-      "price": 2326.78,
-      "prev_close": 2331.51,
-      "change_pct": -0.2,
+      "name_zh_hk": "以太幣",
+      "name_zh_cn": "以太坊",
+      "name_en": "Ethereum",
+      "emoji": "💎",
+      "price": 1529.55,
+      "prev_close": 1564.8595,
+      "change_pct": -2.2564,
       "currency": "USD",
       "_src": "yahoo"
     }

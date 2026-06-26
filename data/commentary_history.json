@@ -1,1 +1,255 @@
-[{"ts": 1780922957, "commentary": "美股開市前，伊朗軍方暗示如以軍停火則停止攻擊，地緣局勢稍微降溫令油價升幅收窄至1.36% (91.77美元)；惟科技股繼續捱沽拖累納指急挫4.18%，市場避險情緒依然濃厚，美股今晚開局料受壓，科技股或成重災區。", "source": "claude-haiku", "market_phase": "us_premarket"}, {"zh_hk": "伊朗向以色列射導彈，S&P500即跌2.64%，我個叉燒皮都嚇皺埋！好彩伊朗宣佈停火，美股期貨即反彈0.81%，叉燒仔鬆一口氣😅🔥", "zh_cn": "伊朗向以色列发射导弹，S&P500暴跌2.64%，叉烧皮都吓皱了！幸好伊朗宣布停火，美股期货随即反弹0.81%，叉烧仔终于能喘口气😅🔥", "en": "Iran fired missiles at Israel and S&P500 dropped 2.64% — this little BBQ bun nearly got burnt! Lucky Iran called a ceasefire and S&P futures bounced back 0.81%, so we can breathe again 😅🔥", "fg_score": null, "fg_rating": "unknown", "vix": 18.75, "vix_chg": -12.83, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射導彈，中東局勢急劇升級，觸發全球避險拋售", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "us_premarket", "generated_at": "2026-06-08T20:45:55.869944+08:00", "ts": 1780922755}, {"zh_hk": "美股偏弱，VIX回落，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX回落，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX down, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 18.99, "vix_chg": -11.72, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "美國維持封鎖伊朗港口，中東衝突升級令市場避險情緒急升", "driver_confidence": "high", "quality_passed": false, "quality_issues": ["Potentially unverified percentage: 8.0% not in market_data", "Potentially unverified percentage: 8.0% not in market_data"], "pipeline_version": "v2", "commentary_mode": "us_premarket", "generated_at": "2026-06-08T19:43:43.586892+08:00", "ts": 1780919023}, {"zh_hk": "伊朗向以色列射超過20枚導彈，中東火藥桶爆咗！S&P跌2.64%、Nasdaq插4.77%，油價即彈4.47%，連黃金都唔夠喘定跌1.1%，叉燒仔睇住個市已經烤焦咗 🔥😰 好彩期貨微微翻身，先話唔使太驚！", "zh_cn": "伊朗向以色列发射超20枚导弹，中东火药桶真的炸了！S&P跌2.64%、纳指暴跌4.77%，油价蹦跶涨4.47%，就连黄金也没撑住跌1.1%，叉烧仔看着大盘已经快烤焦了 🔥😰 好在期货微微翻红，暂时还不用太慌！", "en": "Iran fired 20+ missiles at Israel and the Middle East powder keg finally blew — S&P tanked 2.64%, Nasdaq cratered 4.77%, oil spiked 4.47%, and even gold couldn't hold its ground dropping 1.1%! This char siu bun nearly got burnt to a crisp 🔥😰 At least futures are creeping up — so breathe, but only a little!", "fg_score": null, "fg_rating": "unknown", "vix": 19.72, "vix_chg": -8.32, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射逾20枚彈道導彈，以軍警告衝突或持續數日甚至升級全面戰爭", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "us_premarket", "generated_at": "2026-06-08T18:43:18.136324+08:00", "ts": 1780915398}, {"zh_hk": "以色列同伊朗互轟，中東硝煙味衝到華爾街，S&P跌咗2.64%、Nasdaq插4.77%，連黃金都頂唔住跌1.34%，唯獨油價笑住彈4.62%——亂世之中，唯有石油最開心 🔥💸😅", "zh_cn": "以色列和伊朗互相轰炸，中东战火烧到华尔街，S&P跌了2.64%、纳斯达克暴跌4.77%，连黄金都撑不住跌1.34%，唯独油价笑着涨了4.62%——乱世之中，只有石油最开心 🔥💸😅", "en": "Israel and Iran are trading missiles, and Wall Street felt every blast — S&P500 down 2.64%, Nasdaq tanked 4.77%, even gold couldn't hide, slipping 1.34%. The only winner? Oil, pumping up 4.62%. In chaos, crude oil is king 🔥💸😅", "fg_score": null, "fg_rating": "unknown", "vix": 19.83, "vix_chg": -7.81, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列伊朗互相轟炸，伊朗發射逾20枚彈道導彈，以軍警告衝突或持續數日甚至升級全面戰爭", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "us_premarket", "generated_at": "2026-06-08T17:39:05.279172+08:00", "ts": 1780911545}, {"zh_hk": "以色列同伊朗互揼到停唔到手，油價抽升4.83%，美股跌咗2.64%，連黃金都唔夠力避險，叉燒仔我而家係生係熟都唔知喇！🔥💣", "zh_cn": "以色列和伊朗打得不可开交，油价暴涨4.83%，美股跌了2.64%，连黄金都失去避险魔力，叉烧仔现在是生是熟都不知道了！🔥💣", "en": "Israel and Iran are trading missiles like there's no tomorrow — oil surged 4.83%, S&P500 dropped 2.64%, and even gold couldn't hold its safe-haven crown. This little BBQ pork bun is sweating in the oven! 🔥💣", "fg_score": null, "fg_rating": "unknown", "vix": 19.91, "vix_chg": -7.44, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列空襲伊朗軍事目標，中東衝突急劇升級，停火協議瀕臨破裂", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "us_premarket", "generated_at": "2026-06-08T16:32:43.732851+08:00", "ts": 1780907563}, {"zh_hk": "以色列同伊朗互射導彈，中東火藥味濃到嗅到喺香港！S&P跌2.64%、納指插4.77%，油價反彈4.37%，叉燒仔而家最擔心係個世界唔係市場 😰🛢️", "zh_cn": "以色列和伊朗互射导弹，中东局势炸锅！S&P跌2.64%、纳指重挫4.77%，油价飙涨4.37%，叉烧仔现在担心的不是市场，是这个世界 😰🛢️", "en": "Israel and Iran are trading missiles, and markets are trading down hard — S&P -2.64%, Nasdaq -4.77%, while oil jumps +4.37% as Middle East tensions boil over. This Char Siu Bao is more worried about world peace than his portfolio right now 😰🛢️", "fg_score": null, "fg_rating": "unknown", "vix": 20.32, "vix_chg": -5.53, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列與伊朗互射導彈，中東衝突升級威脅和平談判，引發全球避險拋售", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_afternoon", "generated_at": "2026-06-08T15:31:02.401763+08:00", "ts": 1780903862}, {"zh_hk": "以色列伊朗互射導彈，中東火藥味爆棚，VIX單日飆咗近四成、S&P500插水2.64%，油價反而笑住升4.42%——叉燒仔今日驚到個包皮都皺埋！😨🔥", "zh_cn": "以色列伊朗互射导弹，中东火药味冲天，VIX单日暴涨近四成、标普500暴跌2.64%，油价却逆势大涨4.42%——今天的市场，刺激程度堪比炸厨房！😨🔥", "en": "Israel and Iran are literally firing missiles at each other, and Wall Street felt every blast — VIX exploded nearly 40%, S&P500 dropped 2.64%, while oil surged 4.42% loving every second of the chaos. This char siu bun is sweating through his wrapper! 😨🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列與伊朗互射導彈，中東衝突急劇升溫引發全球避險情緒", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_afternoon", "generated_at": "2026-06-08T14:56:57.473940+08:00", "ts": 1780901817}, {"zh_hk": "以色列同伊朗互掟導彈，停火協議玩完，VIX單日暴升39.7%，納指插水4.77%，油價狂抽4.33%，叉燒仔而家縮埋一角食番個包壓壓驚😰🔥", "zh_cn": "以色列和伊朗互射导弹，停火协议岌岌可危，VIX单日暴升39.7%，纳指重挫4.77%，油价飙涨4.33%，叉烧仔现在只想躲在角落啃个包压压惊😰🔥", "en": "Israel and Iran are trading missiles, the ceasefire is falling apart, VIX exploded 39.7% in one day, Nasdaq tanked 4.77%, and oil surged 4.33% — this BBQ bun is stress-eating in the corner 😰🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列與伊朗互相空襲，中東停火協議瀕臨破裂，地緣風險急升", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_afternoon", "generated_at": "2026-06-08T14:21:57.817362+08:00", "ts": 1780899717}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列轟炸伊朗西南部石化廠後，伊朗發動第二波導彈反擊，中東停火協議破裂", "driver_confidence": "high", "quality_passed": false, "quality_issues": ["zh_hk is empty", "zh_hk too short (0 chars)"], "pipeline_version": "v2", "commentary_mode": "hk_afternoon", "generated_at": "2026-06-08T13:49:15.997037+08:00", "ts": 1780897755}, {"zh_hk": "以色列同伊朗互扑嚟扑去，停火協議爆晒，VIX恐慌指數彈咗39.7%，S&P500插水2.64%，油價反而抽升4.23%——而家係導彈市，唔係股票市！🚀💥", "zh_cn": "以色列和伊朗互相开轰，停火协议彻底破裂，VIX恐慌指数暴涨39.7%，S&P500单日重挫2.64%，油价却逆势飙升4.23%——现在交易的不是股票，是导弹风险！🚀💥", "en": "Israel and Iran are trading missiles instead of peace deals — the ceasefire collapsed, VIX spiked 39.7%, S&P 500 dropped 2.64%, but oil surged 4.23%. Forget the stock market, this is a missile market! 🚀💥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列與伊朗互相轟炸，停火協議破裂，中東戰事急劇升級", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_afternoon", "generated_at": "2026-06-08T13:15:34.906693+08:00", "ts": 1780895734}, {"zh_hk": "伊朗同以色列互掟導彈，中東打成一鑊粥，VIX恐慌指數飆升39.7%，S&P500插水2.64%，連黃金都唔避險反而跌緊，叉燒仔真係睇到心噏噏！😱🔥", "zh_cn": "伊朗和以色列互射导弹，中东局势一锅粥，VIX恐慌指数飙升39.7%，S&P500重挫2.64%，连黄金都不避险反跌0.58%，今天市场真的让人心惊胆战！😱🔥", "en": "Iran and Israel are trading missiles like it's a Black Friday sale gone wrong — VIX explodes 39.7%, S&P500 tanks 2.64%, and even gold can't catch a break, dropping 0.58%. This BBQ Bun is sweating through his dough! 😱🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發動第二波導彈攻擊，以色列同步轟炸伊朗西部及中部目標，中東衝突急劇升級", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_lunch", "generated_at": "2026-06-08T12:43:55.864927+08:00", "ts": 1780893835}, {"zh_hk": "以色列轟炸伊朗搞到全球大地震🔥，VIX恐慌指數飆升近四成、標普跌2.64%、納指插4.77%，油價就笑到彈起3.43%，叉燒仔我今日真係唔敢睇戶口！", "zh_cn": "以色列空袭伊朗引爆地缘政治炸弹💥，恐慌指数VIX暴涨近四成，标普跌2.64%、纳指重挫4.77%，油价却借势飙涨3.43%，今天的市场比中东局势还刺激！", "en": "Israel struck Iran and the market had a full meltdown 💥—VIX spiked nearly 40%, S&P500 dropped 2.64%, Nasdaq tanked 4.77%, while oil pumped 3.43% loving every second of the chaos. Even this BBQ pork bun is too stressed to check his portfolio today!", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列對伊朗西部及中部目標發動空襲，打破停火協議，引爆地緣政治風險", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_morning", "generated_at": "2026-06-08T11:39:41.665585+08:00", "ts": 1780889981}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射彈道導彈，以色列隨即對伊朗西部及中部目標展開報復性空襲，中東衝突急劇升級", "driver_confidence": "high", "quality_passed": false, "quality_issues": ["Potentially unverified percentage: 2.0% not in market_data"], "pipeline_version": "v2", "commentary_mode": "hk_morning", "generated_at": "2026-06-08T11:08:38.130127+08:00", "ts": 1780888118}, {"zh_hk": "伊朗向以色列射導彈，中東打生打死，VIX恐慌指數即刻飆升39.68%，S&P500跌咗2.64%，油價就抽高3.46%，叉燒仔今日唯有縮埋係包裡面😰🛢️", "zh_cn": "伊朗向以色列发射导弹，中东局势骤然升温，VIX恐慌指数暴涨39.68%，S&P500单日重挫2.64%，油价却逆势飙升3.46%——这年头，买桶油比买股票更保值😰🛢️", "en": "Iran launched ballistic missiles at Israel, and the Middle East just went full chaos mode — VIX exploded +39.68%, S&P500 dropped 2.64%, while oil jumped 3.46%. Bao Bao is hiding inside his bun and not coming out today 😰🛢️", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射彈道導彈，中東衝突升級，觸發全球避險拋售", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_morning", "generated_at": "2026-06-08T10:36:12.612501+08:00", "ts": 1780886172}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列轟炸伊朗西部及中部軍事目標，打破停火協議，引發中東局勢急劇升溫", "driver_confidence": "high", "quality_passed": false, "quality_issues": ["zh_hk is empty", "zh_hk too short (0 chars)"], "pipeline_version": "v2", "commentary_mode": "hk_morning", "generated_at": "2026-06-08T10:04:09.558167+08:00", "ts": 1780884249}, {"zh_hk": "伊朗向以色列發射導彈話要「全週攻擊」，嚇到VIX彈咗39.7%、S&P500插水2.64%，油價都趁機抽升3.41%，我條叉燒差啲被烤熟！🔥😱", "zh_cn": "伊朗向以色列发射导弹还扬言「全周攻击」，直接把VIX炸高39.7%、标普500重挫2.64%，油价也趁乱飙升3.41%，叉烧仔我差点被烤熟！🔥😱", "en": "Iran fired ballistic missiles at Israel and threatened a 'full-week attack' — VIX exploded 39.7%, S&P500 dropped 2.64%, and oil surged 3.41%. This little BBQ pork bun nearly got roasted! 🔥😱", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射彈道導彈，宣稱「全週攻擊」，中東局勢急劇升溫", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "hk_morning", "generated_at": "2026-06-08T09:33:29.911123+08:00", "ts": 1780882409}, {"zh_hk": "伊朗向以色列射導彈，中東火燒連天，VIX恐慌指數急升39.7%，美股跌到我個叉燒餡都散晒！🔥油價升、黃金升，唯獨我心情無升⋯", "zh_cn": "伊朗向以色列发射导弹，中东局势炸锅，VIX恐慌指数飙升39.7%，纳指暴跌4.77%，我这个叉烧都被吓得馅料四溢！🔥原油涨、黄金涨，就是股票不涨…", "en": "Iran fired missiles at Israel and the Middle East is literally on fire 🔥 — VIX spiked 39.7%, Nasdaq tanked 4.77%, and even this little BBQ pork bun is sweating! Oil's up, gold's up, but my portfolio? Don't ask. 😅", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射導彈，中東局勢急劇升溫，引發市場避險情緒", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T08:55:29.242679+08:00", "ts": 1780880129}, {"zh_hk": "伊朗向以色列射導彈，中東又打交喇！VIX恐慌指數飆升近四成，S&P500跌2.64%，油價升2.5%，叉燒仔見到個市都嚇到跌落蒸籠度😱🛢️", "zh_cn": "伊朗向以色列发射弹道导弹，中东局势再度爆发！VIX恐慌指数飙升近四成，S&P500暴跌2.64%，油价上涨2.5%，就连叉烧仔看了都吓得躲进蒸笼里🛢️😱", "en": "Iran just fired ballistic missiles at Israel and markets went full panic mode — VIX spiked nearly 40%, S&P500 dropped 2.64%, and oil jumped 2.5% on supply fears. Even this little char siu bun is sweating inside the steamer! 😱🛢️", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射彈道導彈，中東停火破裂，觸發避險拋售", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T07:53:20.775974+08:00", "ts": 1780876400}, {"zh_hk": "伊朗向以色列射導彈，停火協議岌岌可危，S&P500插水2.64%、VIX恐慌指數飆升近四成，油價都扯高，叉燒仔睇到直喊救命！🚨🔥", "zh_cn": "伊朗向以色列发射弹道导弹，停火协议摇摇欲坠，S&P500暴跌2.64%、VIX恐慌指数飙升近四成，油价也跟着蹿升，今天的市场真是一锅滚烫的乱炖！🚨🔥", "en": "Iran launched ballistic missiles at Israel, sending the ceasefire up in flames — S&P500 dropped 2.64%, VIX spiked nearly 40%, and oil prices surged. This char siu bun is sweating through his wrapper! 🚨🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射彈道導彈，威脅脆弱停火協議，觸發避險情緒", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T06:51:14.285592+08:00", "ts": 1780872674}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗IRGC向以色列發射導彈，定性為「警告」，中東地緣衝突急劇升級", "driver_confidence": "high", "quality_passed": false, "quality_issues": ["zh_hk is empty", "zh_hk too short (0 chars)"], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T05:49:16.933667+08:00", "ts": 1780868956}, {"zh_hk": "伊朗向以色列射導彈，停火協議即刻爆煲💥，S&P跌2.64%、Nasdaq插4.77%、VIX恐慌指數飆升近四成，叉燒仔我個心都縮埋，今晚真係唔敢睇賬！😱", "zh_cn": "伊朗向以色列发射弹道导弹，停火协议瞬间崩了💥，S&P跌2.64%、纳指重挫4.77%、VIX恐慌指数单日暴涨近四成，叉烧仔我的心都凉了半截，今晚真不敢对账！😱", "en": "Iran fired ballistic missiles at Israel, ceasefire in tatters 💥 — S&P tanked 2.64%, Nasdaq cratered 4.77%, and VIX spiked nearly 40% in a single day. This char siu bun is sweating through his dough right now! 😱", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列發射多輪彈道導彈，停火協議破裂風險急升，引發地緣政治恐慌", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T04:48:08.193354+08:00", "ts": 1780865288}, {"zh_hk": "伊朗又向以色列射導彈喇！VIX單日爆升39.7%，S&P跌咗2.64%，納指仲跌4.77%！叉燒仔個心好慌，中東火藥味咁濃，今晚唔好炒得太狠啊各位！🧨📉😰", "zh_cn": "伊朗再次向以色列发射导弹，VIX恐慌指数单日暴涨39.7%，标普500跌2.64%，纳指更是重挫4.77%！叉烧仔慌得一批，中东局势这么紧张，今晚大家悠着点操作啊！🧨📉😰", "en": "Iran fired missiles at Israel again and the markets FREAKED out — VIX spiked 39.7% in a single day, S&P 500 dropped 2.64%, and Nasdaq got hammered 4.77%! This little BBQ pork bun is sweating — when the Middle East sneezes, your portfolio catches a cold! 🧨📉😰", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗向以色列北部發射導彈，中東局勢急劇升溫，觸發避險情緒", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T03:46:04.816719+08:00", "ts": 1780861564}, {"zh_hk": "伊朗打仗燒油，航空公司割price目標，VIX狂飆39.7%，S&P跌2.64%、納指插4.77%，連避險金都跌3.1%，今日真係連叉燒包都想縮埋角落😰🔥", "zh_cn": "伊朗战火烧高油价，航空公司纷纷下调利润预期，VIX狂飙39.7%，标普跌2.64%、纳指重挫4.77%，就连避险黄金也跌了3.1%——今天连避风港都靠不住！😰🔥", "en": "Iran's war is torching fuel costs, airlines are slashing 2026 profit forecasts, VIX spiked 39.7%, S&P500 dropped 2.64%, Nasdaq tanked 4.77%, and even gold couldn't hold — falling 3.1%. Nowhere to hide today! 😰🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗戰爭衝擊燃油成本，全球航空公司下調2026年利潤預測，地緣風險急升", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T02:43:29.472682+08:00", "ts": 1780857809}, {"zh_hk": "耶路撒冷又炸彈聲四起，停火？講笑㗎！VIX一日彈咗近四成，S&P跌2.64%，連黃金都捱打跌3.1%，唔係跌市係「全場清倉大特賣」😱🔥", "zh_cn": "停火刚几天以色列又轰炸贝鲁特，VIX单日暴涨近四成，S&P500跌2.64%，连黄金都罕见跌了3.1%——这不是避险，这是全市场强制大甩卖！😱🔥", "en": "Israel resumed bombing Beirut days after a ceasefire — so much for peace talks! VIX exploded +39.7%, S&P500 shed 2.64%, and even gold got crushed -3.10% (forced liquidations, anyone?). Today's market: pure chaos sale. 😱🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "以色列轟炸貝魯特、停火破裂，中東局勢急劇惡化推高地緣風險", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T01:41:12.554349+08:00", "ts": 1780854072}, {"zh_hk": "中東打到停唔到，以色列轟完貝魯特又盯實伊朗核設施，VIX飆咗近四成、Nasdaq插水4.77%，連黃金都跌埋3.1%，今日真係避無可避！🔥😱", "zh_cn": "中东打得停不下来，以色列轰完贝鲁特又盯上伊朗核设施，VIX暴涨近四成、纳指重挫4.77%，连黄金也跌了3.1%，今天真的躲无可躲！🔥😱", "en": "Middle East is on fire—Israel kept bombing Beirut then set sights on Iran's nuclear sites, sending VIX surging nearly 40%, Nasdaq diving 4.77%, and even gold couldn't hide, dropping 3.1%. Nowhere to run today! 🔥😱", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "中東局勢急劇惡化：以色列無視停火再轟炸貝魯特，伊朗核設施受威脅，地緣政治風險驟升", "driver_confidence": "high", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_us", "generated_at": "2026-06-08T00:38:13.120202+08:00", "ts": 1780850293}, {"zh_hk": "中東又打交，真主黨唔肯停火、伊美傾唔掂，VIX恐慌指數飆升近四成，美股納指插水近5%，連黃金都跌3%！叉燒仔我係坐定定定唔到喎 😰🔥", "zh_cn": "中东局势再度升温，真主党拒绝停火、伊美谈判破裂，VIX恐慌指数暴涨近四成，纳指重挫近5%，就连黄金也跌了3%！今晚市场真的不让人省心 😰🔥", "en": "Middle East tensions are boiling over — Hezbollah rejected the ceasefire, Iran-US talks hit a wall, and markets went full panic mode: VIX spiked nearly 40%, Nasdaq tanked almost 5%, and even gold couldn't hold, dropping 3.1%.叉燒仔 is sweating through his bun tonight 😰🔥", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "中東局勢升溫：真主黨無視停火、IDF繼續加薩行動，加上伊美談判僵局引發地緣風險急升", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_both", "generated_at": "2026-06-07T23:32:59.716965+08:00", "ts": 1780846379}, {"zh_hk": "美伊打咗100日終於停手，但VIX即刻彈咗近40%、美股插水2.64%、連黃金都跌3.1%——叉燒仔話，戰爭完咗市場仲係嚇親，呢種反應真係比戰爭更嚇人！😅📉", "zh_cn": "美伊打了100天终于停火，但VIX暴涨近40%、美股跌2.64%、连黄金都跌了3.1%——战争结束了市场反而更慌，这波操作叉烧仔也看不懂！😅📉", "en": "The US-Iran 100-day war is over, but markets are throwing a bigger tantrum than the war itself — VIX spiked nearly 40%, S&P500 dropped 2.64%, and even gold slid 3.1%. Turns out 'peace' can be just as scary as war! 😅📉", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "美國對伊朗100天戰爭結束，地緣政治風險重新評估，觸發市場避險情緒", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_both", "generated_at": "2026-06-07T17:31:15.586736+08:00", "ts": 1780824675}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗戰爭升級：霍爾木茲海峽油輪交通暴跌90-95%，能源供應鏈嚴重受阻", "driver_confidence": "medium", "quality_passed": false, "quality_issues": ["Potentially unverified percentage: 90.0% not in market_data", "Potentially unverified percentage: 90.0% not in market_data"], "pipeline_version": "v2", "commentary_mode": "holiday_both", "generated_at": "2026-06-07T11:19:09.310895+08:00", "ts": 1780802349}, {"zh_hk": "叉燒仔今日嚇親啦！伊朗打仗、ECB加息、烏克蘭無人機飛去聖彼得堡，VIX恐慌指數彈咗成四成，Nasdaq插近5%，連黃金都跌逾3%保唔住——世界亂咁，叉燒仔唯有縮埋個包皮瑟瑟發抖 😱📉🥺", "zh_cn": "叉烧仔今天吓坏了！伊朗战云密布、欧央行加息在即、乌克兰无人机首袭圣彼得堡，VIX恐慌指数暴涨近40%，纳指跌近5%，连黄金都扛不住跌超3%——世界这么乱，叉烧仔只能缩进包皮瑟瑟发抖 😱📉🥺", "en": "Char Siu Bao is shaking in his bun today! Iran war fears, ECB rate hike incoming, Ukrainian drones hitting St. Petersburg for the first time — VIX exploded nearly 40%, Nasdaq crashed almost 5%, and even gold couldn't hold on, dropping over 3%. With the world this chaotic, this little BBQ pork bun is hiding under the blanket 😱📉🥺", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "伊朗戰爭陰霾擴散，歐央行即將加息，地緣衝突升溫令市場急跌", "driver_confidence": "medium", "quality_passed": true, "quality_issues": [], "pipeline_version": "v2", "commentary_mode": "holiday_both", "generated_at": "2026-06-07T05:17:21.994531+08:00", "ts": 1780780641}, {"zh_hk": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "zh_cn": "美股偏弱，VIX上升，恐懼貪婪指數None，叉燒仔密切關注中 🫣", "en": "US markets negative, VIX up, F&G at None.", "fg_score": null, "fg_rating": "unknown", "vix": 21.51, "vix_chg": 39.68, "sp500": 7383.74, "sp500_chg": -2.64, "primary_driver": "市況分析暫時不可用", "driver_confidence": "low", "quality_passed": false, "quality_issues": ["zh_hk is empty", "zh_hk too short (0 chars)"], "pipeline_version": "v2", "commentary_mode": "holiday_both", "generated_at": "2026-06-06T23:16:00.206970+08:00", "ts": 1780758960}]
+[
+  {
+    "entries": [
+      {
+        "timestamp": 1781616210,
+        "date": "2026-06-16",
+        "time_hkt": "21:23",
+        "commentary": "受惠AI熱潮帶動科技板塊走強令納指盤前急升逾3%，加上美伊有望達成協議促使油價急挫減緩通脹壓力，預料今晚美股開市將延續升勢並由科技股領放。",
+        "market_data": {
+          "geopolitical": "美伊協議取得進展",
+          "oil_wti": 76.68,
+          "oil_change_pct": -3.4743,
+          "gold_price": 4369.7,
+          "gold_change_pct": 0.4159,
+          "sp500_change_pct": 1.6528,
+          "nasdaq_change_pct": 3.0712
+        }
+      },
+      {
+        "timestamp": 1781614809,
+        "date": "2026-06-16",
+        "time_hkt": "21:00",
+        "commentary": "受美伊和平協議有望達成拖累油價急挫，加上以 SpaceX 為首嘅科技股持續爆上，目前美股期貨表現分化，預料今晚美股開市將由科技板塊領軍造好，但整體大市仍會觀望中東局勢細節而較為反覆。",
+        "market_data": {
+          "geopolitical": "美伊和平協議準備簽署",
+          "oil_wti": 77.25,
+          "oil_change_pct": -2.7568,
+          "gold_price": 4359.7,
+          "gold_change_pct": 0.1861,
+          "sp500_change_pct": 1.6528,
+          "nasdaq_change_pct": 3.0712,
+          "dow_change_pct": 0.9155,
+          "inflation": "穩定",
+          "market_mood": "科技強勢，地緣觀望"
+        }
+      },
+      {
+        "timestamp": 1781614222,
+        "date": "2026-06-16",
+        "time_hkt": "20:50",
+        "commentary": "美國同伊朗有望達成協議令油價急跌穿80美元，加上 SpaceX 併購 AI 公司刺激科技板塊氣氛，帶動納指期貨盤前大升逾3%，預計今晚開市美股將由科技股強勢領漲。🚀📉",
+        "market_data": {
+          "geopolitical": "美伊協議進展",
+          "oil_wti": 77.25,
+          "oil_change_pct": -2.76,
+          "gold_price": 4359.7,
+          "gold_change_pct": 0.19,
+          "sp500_change_pct": 1.65,
+          "nasdaq_change_pct": 3.07,
+          "dow_change_pct": 0.92,
+          "market_mood": "科技股大好"
+        }
+      },
+      {
+        "timestamp": 1781268372,
+        "date": "2026-06-12",
+        "time_hkt": "20:46",
+        "commentary": "受 SpaceX 創紀錄 IPO 帶動科技股氣氛，加上傳聞美伊有望達成和平協議令國際油價急挫，納指盤前勁升逾2.5%，預計今晚美股開市科技板塊將強勢領漲！",
+        "market_data": {
+          "geopolitical": "美伊有望和平協議",
+          "oil_wti": 85.45,
+          "oil_change_pct": -2.5767,
+          "gold_price": 4220.1,
+          "gold_change_pct": 2.579,
+          "sp500_change_pct": 1.7519,
+          "nasdaq_change_pct": 2.5434,
+          "dow_change_pct": 1.863,
+          "inflation": "穩定",
+          "market_mood": "科技股狂熱"
+        }
+      },
+      {
+        "timestamp": 1781182151,
+        "date": "2026-06-11",
+        "time_hkt": "20:49",
+        "commentary": "受侵侵揚言今晚打擊伊朗引發地緣局勢緊張，加上美國批發通脹再度飆升拖累，市場避險情緒急升令納指及標指盤前跌近2%，預料今晚美股開市將面臨龐大沽壓。",
+        "market_data": {
+          "geopolitical": "Trump威脅打擊伊朗",
+          "oil_wti": 90.82,
+          "oil_change_pct": 0.8775,
+          "gold_price": 4081.3,
+          "gold_change_pct": -1.2581,
+          "sp500_change_pct": -1.6199,
+          "nasdaq_change_pct": -1.9834,
+          "dow_change_pct": -1.874,
+          "inflation": "批發通脹再度飆升",
+          "market_mood": "避險情緒急升"
+        }
+      },
+      {
+        "timestamp": 1779972154,
+        "date": "2026-05-28",
+        "time_hkt": "20:45",
+        "commentary": "伊美衝突推油價上破90，通脹雖升但增幅未及預期，美股微升抗跌，開市料有撐。",
+        "market_data": {
+          "geopolitical": "伊朗-美國衝突升溫，導彈襲擊加劇停火擔憂",
+          "oil_wti": 90.88,
+          "oil_change_pct": 2.48,
+          "gold_price": 4421.7,
+          "gold_change_pct": -1.33,
+          "sp500_change_pct": 0.0165,
+          "nasdaq_change_pct": 0.0696,
+          "dow_change_pct": 0.3619,
+          "inflation": "升至3年高位，增幅小於預期",
+          "market_mood": "科技股強勢"
+        }
+      },
+      {
+        "timestamp": 1779712976,
+        "datetime": "2026-05-25T20:42:56",
+        "commentary": "美伊和平談判露曙光，油價急跌6%舒緩升息憂慮！全球股市齊聲歡呼，美股三大指數普漲，恒指亞洲領漲，VIX跌勢顯示風險胃口回升。黃金企穩，大宗商品波瀾不驚。美股開市料延續樂觀，惟中東局勢仍需密切注視，切勿盲目追漲。💹🚀",
+        "market_summary": {
+          "sp500": {
+            "price": 7473.47,
+            "change_pct": 0.37
+          },
+          "hsi": {
+            "price": 25606.03,
+            "change_pct": 0.86
+          },
+          "oil": {
+            "price": 96.6,
+            "change_pct": -6.0
+          },
+          "gold": {
+            "price": 4523.2,
+            "change_pct": 0.0
+          },
+          "vix": 16.6
+        },
+        "key_news": "美伊和平談判進展，油價大幅下跌"
+      },
+      {
+        "date": "2026-05-14",
+        "time": "20:45:51 HKT",
+        "timestamp": 1778762751,
+        "commentary": "納指升1.2%領軍，AI 浪潮加持；Trump-Xi 峰會釋和訊，市場情緒轉樂觀。Cisco、Nvidia 飆升帶動科技股上揚，惟傳統股份（金融、能源）受壓。風險在後：台灣議題成美中關係焦點，地緣緊張隨時變盤；伊朗戰爭推高能源成本，印度通脹創3年半新高，燃油短缺在即。油價軟弱反映供應憂慮，黃金平穩觀望。美股開市料科技續亮眼，傳統板塊承壓，整體睇來「科強傳弱」格局。投資者宜心存警惕，勿被市場樂觀沖昏頭，地緣風險轉向係大殺着。",
+        "market_snapshot": {
+          "sp500": {
+            "price": 7444.25,
+            "change_pct": 0.5849
+          },
+          "nasdaq": {
+            "price": 26402.344,
+            "change_pct": 1.2041
+          },
+          "dji": {
+            "price": 49693.2,
+            "change_pct": -0.1354
+          },
+          "gold": {
+            "price": 4709.7,
+            "change_pct": 0.0637
+          },
+          "oil": {
+            "price": 100.45,
+            "change_pct": -0.5642
+          },
+          "vix": {
+            "price": 17.9,
+            "change_pct": 0.1679
+          }
+        },
+        "key_drivers": [
+          "Trump-Xi 峰會樂觀情緒",
+          "AI 交易繼續推動科技股",
+          "Cisco、Nvidia 飆升",
+          "台灣議題地緣風險",
+          "伊朗戰爭能源通脹",
+          "傳統股份承壓"
+        ]
+      },
+      {
+        "timestamp": 1778503500,
+        "time_hkt": "2026-05-12 20:45",
+        "commentary": "特朗普訪華談判未見明朗，伊朗戰爭僵持推高油價升1.7%，科技股強勢納指升1.7%領全球，但波動指數VIX急升5.76%暗示市場風險升溫，預期美股開市續見高位但要小心回調。",
+        "market_snapshot": {
+          "sp500": 7398.93,
+          "sp500_pct": 0.8426,
+          "nasdaq": 26247.08,
+          "nasdaq_pct": 1.7084,
+          "dow": 49609.16,
+          "dow_pct": 0.0245,
+          "vix": 18.18,
+          "vix_pct": 5.7592,
+          "oil": 97.06,
+          "oil_pct": 1.7187,
+          "gold": 4701.8,
+          "gold_pct": -0.6109,
+          "btc": 81186.79,
+          "btc_pct": -1.1899
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "time": "20:45",
+        "commentary": "油價急挫2.9%受地緣局勢壓制，美股三大指數齊聲回軟0.6-0.8%，VIX恐慌指數回落至17.88顯示市場未見恐慌，但伊朗局勢及供應風險未解除，美股開市料保持謹慎觀望。",
+        "timestamp": "2026-05-20T12:46:13.509500Z"
+      },
+      {
+        "date": "2026-05-22",
+        "time": "20:45",
+        "market_status": "us_premarket",
+        "commentary_cantonese": "美伊和平談判帶動市況，華爾街三指齊漲（道指升0.55%、標普升0.17%），惟油價(+0.16%)仍受地緣風險影響；今日開市料延續升勢，但需關注談判進展。",
+        "indices_snapshot": {
+          "sp500_change": 0.1715,
+          "nasdaq_change": 0.0866,
+          "dow_change": 0.5525,
+          "oil_change": 0.1557
+        },
+        "generated_at": "2026-05-22T20:47:46.008808"
+      },
+      {
+        "timestamp": 1779799614,
+        "date": "2026-05-26",
+        "time": "20:46:54",
+        "commentary": "美伊談判有期望，油價應聲跌近4%至92.8蚊，紓緩通脹憂慮。美股微升勢頭見盤整，道指領漲0.58%，VIX平穩16.7。美股開市料延續溫和上揚，惟能源股受油價拖累，留意談判進展信號。",
+        "source": "charsiujai_premarket_update",
+        "market_context": {
+          "oil_wti": -3.93,
+          "spx_change": 0.37,
+          "dow_change": 0.58,
+          "vix": 16.7
+        }
+      },
+      {
+        "ts": 1782391570,
+        "commentary": "歐洲熱浪升溫惟油價回軟至伊朗戰前水平、紓緩通脹憂慮；科技股反彈（美光業績超期待），VIX大跌7%，市況風險偏好回升，美股開市料迎溫和反彈。",
+        "date": "2026-06-25",
+        "time": "20:45",
+        "timezone": "Asia/Hong_Kong"
+      },
+      {
+        "ts": 1782391579,
+        "commentary": "歐洲熱浪升溫惟油價回軟至伊朗戰前水平、紓緩通脹憂慮；科技股反彈（美光業績超期待），VIX大跌7%，市況風險偏好回升，美股開市料迎溫和反彈。",
+        "date": "2026-06-25",
+        "time": "20:45",
+        "timezone": "Asia/Hong_Kong"
+      }
+    ],
+    "total": 5,
+    "generated_at": "2026-05-12T20:45:00+08:00",
+    "last_update": "2026-05-22T20:47:46.010048",
+    "total_entries": 4,
+    "updated_at": 1779712976,
+    "last_updated": "2026-05-26T20:47:13.831890"
+  },
+  {
+    "ts": 1782477977,
+    "generated_at": "2026-06-26T20:46:17.386215",
+    "commentary": "美股昨晚科技股持續拋售（納指跌近0.5%），地緣政治風險推高VIX近7%；黃金避險買盤支撑企穩四千（+0.38%），惟油價驚人急跌3%穿過70美元大關——反映市場炒家對經濟放緩既憂慮；亞股應聲全線下挫（恒指跌1.76%、日經跌4.15%），比特幣弱勢跟跌。美股今開望延續科技業內銷壓力，留意OpenAI延遲上市消息點樣影響大市氣氛。",
+    "lang": "cantonese",
+    "type": "premarket_analysis"
+  }
+]
